@@ -69,40 +69,42 @@ En webbutvecklare behöver kunna ett spektrum av olika verktyg och färdigheter:
 
 ## Modulöversikt
 
-| Modulnummer | Modulnamn                      | Beskrivning                                                                                        | Antal Veckor | Period | 
+| Modulnummer | Modulnamn                      | Beskrivning                                                                                        | ~ antal veckor | Period | 
 | ----------- | ------------------------------ | -------------------------------------------------------------------------------------------------- | ------------ | ------ |
-| 1           | Enkel hemsida och github       | Gör din första hemsida med simpel HTML och CSS. Lär dig grundläggande versionhantering med Github. | 3            | HT:1   |
-| 2           | Grundläggande CSS              | Förstå moderna och responsiva layouts med flexbox, grid och media queries                          | 3            | HT:2   |
-| 3           | Grundläggande Javascript       | Introducering av JavaScript som progamspråk och Document Object Model (DOM)                        | 3            | HT:3   |
-| 4           | Fortsättning JavaScript        | Förstå hur JavaScript används för att skapa moderna webbapplikationer med API kommunikation.       | 3            | VT:1   |
-| 5           | Hosting, CMS och Wordpress     | Förstå hur applikationer publiceras för produktionsanvänding samt introduktion till Wordpress.     | 3            | VT:2   |
-| 6           | Backend med Node.js            | Bygg er första webbapplikation med inloggning, data resurser                                       | 3            | VT:3   |
-| 7           | Spel och websockets            | Gör multiplayer spel på webben i realtid                                                           | 3            | HT:1   |
-| 8           | Frontend med ramverk           | Lär er hur man bygger Single Page Applications                                                     | 3            | HT:2   |
-| 9           | Fortsättning backend           | Lär er teknikerna som används i industrin för att bygga en säker och modern backend                | 3            | HT:3   |
-| 10          | Arbeta i team                  | Jobba i grupp tillsammans på ett större projekt och utforska vilka roller som behövs               | 3            | VT:1   |
-| 11          | Backend med PHP                | Utforska ett alternativt (och populärt) sätt att göra webappar                                     | 3            | VT:2   |
-| 12          | Examensprojekt                 | Samla ihop allt du har lärt dig och bygg något eget                                                | 3            | VT:3   |
+| 1           | HTML och Git                   | HTML är webbens språk för struktur och innehåll. Grundläggande versionhantering med GitHub.        | 6            | HT:1   |
+| 2           | Grundläggande CSS              | Webbdesign och responsiv layout. Lär dig begrepp som box model, media queries och mobile first.    | 6            | HT:2   |
+| 3           | Grundläggande Javascript       | Introducering av JavaScript som progamspråk och Document Object Model (DOM)                        | 6            | HT:3   |
+| 4           | Fortsättning JavaScript        | Förstå hur JavaScript används för att skapa moderna webbapplikationer med API kommunikation.       | 6            | VT:1   |
+| 5           | Hosting, CMS och Wordpress     | Förstå hur applikationer publiceras för produktionsanvänding samt introduktion till Wordpress.     | 6            | VT:2   |
+| 6           | Backend med Node.js            | Bygg er första webbapplikation med inloggning, data resurser                                       | 6            | VT:3   |
+| 7           | Spel och websockets            | Gör multiplayer spel på webben i realtid                                                           | 6            | HT:1   |
+| 8           | Frontend med ramverk           | Lär er hur man bygger Single Page Applications                                                     | 6            | HT:2   |
+| 9           | Fortsättning backend           | Lär er teknikerna som används i industrin för att bygga en säker och modern backend                | 6            | HT:3   |
+| 10          | Arbeta i team                  | Jobba i grupp tillsammans på ett större projekt och utforska vilka roller som behövs               | 6            | VT:1   |
+| 11          | Backend med PHP                | Utforska ett alternativt (och populärt) sätt att göra webappar                                     | 6            | VT:2   |
+| 12          | Examensprojekt                 | Samla ihop allt du har lärt dig och bygg något eget                                                | 6            | VT:3   |
 
 
-### 1. Enkel hemsida och github
+### 1. HTML och Git
 
 **Verktyg**: 
 - Visual Studio Code
-- Git (Github)
+- Git (GitHub)
 - Unix Terminalen / WSL2
 
 **Färdigheter**: 
-- Bygga simpla statiska hemsidor med grundläggande webbtekniker
-- Kunna samarbeta och versionhantera mjukvaruprojekt med Git
+- Bygga simpla statiska hemsidor med fokus på struktur och innehåll 
+- Validering av kod
+- Kunna samarbeta och versionhantera mjukvaruprojekt med Git.
 
 **Programspråk & Ramverk**: 
 - HTML
 
 **Design**: 
 
+
 #### Beskrivning
-Modulen fokuserar på att göra er bekväma i era mest fundamentera verktyg och språk. Ni kommer att bli introducerade till Visual Studio Code och hur man startar ett projektet där. Vidare får ni en genomgång av HTML5 och hur man använder taggar för att formattera text, länkar och bilder.  Git är ert vikigaste verktyg för att spara arbete och ni kommer med hjälp av Github pages publicera er första hemsida.
+Modulen fokuserar på att göra er bekväma i era mest fundamentala verktyg och språk. Ni kommer att bli introducerade till editorn Visual Studio Code. Lär dig hur man startar projekt, anpassar editorn och namnger filer och mappar. Vidare får ni en genomgång av HTML5 och hur man använder taggar för struktur och enklare formatering av text, länkar och bilder. Git är ert vikigaste verktyg för att spara arbete och ni kommer med hjälp av GitHub pages publicera er första hemsida. 
 
 
 #### Case
