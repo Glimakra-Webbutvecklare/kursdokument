@@ -309,7 +309,7 @@ Publiceras snarast via länk
 - MongoDB
 
 #### Beskrivning
-TO BE WRITTEN
+En fortsättning på introduktionen till backend med nodejs. Denna gången kommer ni lära er tekniker som krävs av en modern webbapplikation.
 
 #### Case
 Publiceras snarast via länk
@@ -336,7 +336,7 @@ Publiceras snarast via länk
 - *Valfritt*
 
 #### Beskrivning
-TO BE WRITTEN
+Den här modulen jobbar ni tillsammans för att producera en webbapplikation för en kund. Fokus är att sköta Github, dela upp och organisera arbete.
 
 #### Case
 Publiceras snarast via länk
@@ -366,7 +366,7 @@ Publiceras snarast via länk
 - CSS
 
 #### Beskrivning
-TO BE WRITTEN
+Den här modulen kommer ni utforska ett av de mest populära programspråken för att bygga webbapplikationer. Flera av koncepten ni stöter på här är kända sedan tidigare men nu får ni se skillnaden mellan Javascript och PHP. Dessutom kommer ni jobba med Docker containrar för att isolera utecklingsmiljöer.
 
 #### Case
 Publiceras snarast via länk
@@ -391,7 +391,7 @@ Publiceras snarast via länk
 - *Valfritt*
 
 #### Beskrivning
-TO BE WRITTEN
+Använd era nya kunskaper för att bygga något som imponerar er själva och framtida anställare och kunder.
 
 #### Case
 Publiceras snarast via länk
