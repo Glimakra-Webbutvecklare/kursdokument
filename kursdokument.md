@@ -77,8 +77,8 @@ En webbutvecklare behöver kunna ett spektrum av olika verktyg och färdigheter:
 | 4           | Fortsättning JavaScript        | Förstå hur JavaScript används för att skapa moderna webbapplikationer med API kommunikation.       | 6            | VT:1   |
 | 5           | Hosting, CMS och Wordpress     | Förstå hur applikationer publiceras för produktionsanvänding samt introduktion till Wordpress.     | 6            | VT:2   |
 | 6           | Backend med Node.js            | Bygg er första webbapplikation med inloggning, data resurser                                       | 6            | VT:3   |
-| 7           | Spel och websockets            | Gör multiplayer spel på webben i realtid                                                           | 6            | HT:1   |
-| 8           | Frontend med ramverk           | Lär er hur man bygger Single Page Applications                                                     | 6            | HT:2   |
+| 7           | Frontend med ramverk           | Lär er hur man bygger Single Page Applications                                                     | 6            | HT:2   |
+| 8           | Spel och websockets            | Gör multiplayer spel på webben i realtid                                                           | 6            | HT:1   |
 | 9           | Fortsättning backend           | Lär er teknikerna som används i industrin för att bygga en säker och modern backend                | 6            | HT:3   |
 | 10          | Arbeta i team                  | Jobba i grupp tillsammans på ett större projekt och utforska vilka roller som behövs               | 6            | VT:1   |
 | 11          | Backend med PHP                | Utforska ett alternativt (och populärt) sätt att göra webappar                                     | 6            | VT:2   |
@@ -235,8 +235,33 @@ Publiceras snarast via länk
 
 ---
 
+### 7. Frontend med ramverk 
 
-### 7. Spel och Websockets 
+**Verktyg**: 
+- Visual Studio Code
+- Git (Github)
+- Unix Terminalen / WSL2
+
+**Färdigheter**: 
+- Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
+- Använda ramverket Reactjs för att bygga en modern Single Page App (SPA)
+- Förståelse hur man konsumerar ett RESTful API i en webbapplikation
+- Kunna ta skisser och översätta dem till demonstrerande digitala prototyper
+
+
+**Programspråk & Ramverk**: 
+- Javascript
+- Reactjs
+
+#### Beskrivning
+Den här modulen fokuserar på hur man bygger en web app med React. Vi kommer endast arbeta med Reacts grundläggande concept: state-variabler, props, hämta data med useEffect och fetch samt react-router-dom för sidnavigering.
+
+#### Case
+Publiceras snarast via länk
+
+---
+
+### 8. Spel och Websockets 
 
 **Verktyg**: 
 - Visual Studio Code
@@ -256,34 +281,7 @@ Publiceras snarast via länk
 - Nodejs
 
 #### Beskrivning
-TO BE WRITTEN
-
-#### Case
-Publiceras snarast via länk
-
----
-
-
-### 8. Frontend med ramverk 
-
-**Verktyg**: 
-- Visual Studio Code
-- Git (Github)
-- Unix Terminalen / WSL2
-
-**Färdigheter**: 
-- Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
-- Använda ramverket Reactjs för att bygga en modern Single Page App (SPA)
-- Förståelse hur man konsumerar ett RESTful API i en webbapplikation
-- Kunna ta skisser och översätta dem till demonstrerande digitala prototyper
-
-
-**Programspråk & Ramverk**: 
-- Javascript
-- Reactjs
-
-#### Beskrivning
-TO BE WRITTEN
+Modulen fokuserar på att förstå hur man använder websockets för att uppnå realtidskommunikation. Vi kommer utforska hur man kan göra en chattapplikation samt multiplayer spel med canvas.
 
 #### Case
 Publiceras snarast via länk
