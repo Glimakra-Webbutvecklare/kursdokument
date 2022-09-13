@@ -71,18 +71,18 @@ En webbutvecklare behöver kunna ett spektrum av olika verktyg och färdigheter:
 
 | Modulnummer | Modulnamn                      | Beskrivning                                                                                        | ~ antal veckor | Period | 
 | ----------- | ------------------------------ | -------------------------------------------------------------------------------------------------- | ------------ | ------ |
-| 1           | HTML och Git                   | HTML är webbens språk för struktur och innehåll. Grundläggande versionhantering med GitHub.        | 6            | HT:1   |
-| 2           | Grundläggande CSS              | Webbdesign och responsiv layout. Lär dig begrepp som box model, media queries och mobile first.    | 6            | HT:2   |
-| 3           | Grundläggande Javascript       | Introducering av JavaScript som progamspråk och Document Object Model (DOM)                        | 6            | HT:3   |
-| 4           | Fortsättning JavaScript        | Förstå hur JavaScript används för att skapa moderna webbapplikationer med API kommunikation.       | 6            | VT:1   |
-| 5           | Hosting, CMS och Wordpress     | Förstå hur applikationer publiceras för produktionsanvänding samt introduktion till Wordpress.     | 6            | VT:2   |
-| 6           | Backend med Node.js            | Bygg er första webbapplikation med inloggning, data resurser                                       | 6            | VT:3   |
-| 7           | Frontend med ramverk           | Lär er hur man bygger Single Page Applications                                                     | 6            | HT:2   |
-| 8           | Spel och websockets            | Gör multiplayer spel på webben i realtid                                                           | 6            | HT:1   |
-| 9           | Fortsättning backend           | Lär er teknikerna som används i industrin för att bygga en säker och modern backend                | 6            | HT:3   |
-| 10          | Arbeta i team                  | Jobba i grupp tillsammans på ett större projekt och utforska vilka roller som behövs               | 6            | VT:1   |
-| 11          | Backend med PHP                | Utforska ett alternativt (och populärt) sätt att göra webappar                                     | 6            | VT:2   |
-| 12          | Examensprojekt                 | Samla ihop allt du har lärt dig och bygg något eget                                                | 6            | VT:3   |
+| 1           | HTML och Git                   | HTML är webbens språk för struktur och innehåll. Grundläggande versionhantering med GitHub.        | 6 (v33-v37)            | HT:1   |
+| 2           | Grundläggande CSS              | Webbdesign och responsiv layout. Lär dig begrepp som box model, media queries och mobile first.    | 6 (v38-v43)            | HT:2   |
+| 3           | Grundläggande Javascript       | Introducering av JavaScript som progamspråk och Document Object Model (DOM)                        | 6 (v45-v50)           | HT:3   |
+| 4           | Fortsättning JavaScript        | Förstå hur JavaScript används för att skapa moderna webbapplikationer med API kommunikation.       | 6 (v2-v7)           | VT:1   |
+| 5           | Hosting, CMS och Wordpress     | Förstå hur applikationer publiceras för produktionsanvänding samt introduktion till Wordpress.     | 6 (v9-v14)           | VT:2   |
+| 6           | Backend med Node.js            | Bygg er första webbapplikation med inloggning, data resurser                                       | 6 (v16-v22)          | VT:3   |
+| 7           | Frontend med ramverk           | Lär er hur man bygger Single Page Applications                                                     | 6 (v33-v37)           | HT:2   |
+| 8           | Spel och websockets            | Gör multiplayer spel på webben i realtid                                                           | 6 (v38-v43)           | HT:1   |
+| 9           | Fortsättning backend           | Lär er teknikerna som används i industrin för att bygga en säker och modern backend                | 6 (v45-v50)          | HT:3   |
+| 10          | Arbeta i team                  | Jobba i grupp tillsammans på ett större projekt och utforska vilka roller som behövs               | 6 (v2-v7)          | VT:1   |
+| 11          | Backend med PHP                | Utforska ett alternativt (och populärt) sätt att göra webappar                                     | 6 (v9-v14)         | VT:2   |
+| 12          | Examensprojekt                 | Samla ihop allt du har lärt dig och bygg något eget                                                | 6 (v16-v22)          | VT:3   |
 
 
 ### 1. HTML och Git
