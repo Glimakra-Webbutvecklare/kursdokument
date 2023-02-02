@@ -230,7 +230,7 @@ Publiceras snarast via länk
 - Nodejs
 
 #### Beskrivning
-TO BE WRITTEN
+Modulen är en introduktion till att bygga backend med Javascript genom att använda Node.js. Du kommer att lära dig att söka och använda dokumentationsresurser för att lösa problem som uppstår under utvecklingen. Genom praktiska övningar kommer du att lära dig att bygga ett eget RESTful API med Node.js, en av de mest använda teknikerna för att struktera ett API. Du kommer också att lära dig att översätta skisser till demonstrerande digitala prototyper.
 
 #### Case
 Publiceras snarast via länk
@@ -256,7 +256,7 @@ Publiceras snarast via länk
 - Reactjs
 
 #### Beskrivning
-Den här modulen fokuserar på hur man bygger en web app med React. Vi kommer endast arbeta med Reacts grundläggande concept: state-variabler, props, hämta data med useEffect och fetch samt react-router-dom för sidnavigering.
+Den här modulen fokuserar att använda ramverket Reactjs för att bygga moderna single page-applikationer (SPA). Du kommer att lära dig grunderna i Reactjs och hur man använder det för att bygga användarvänliga gränssnitt och interaktiva webbapplikationer. Du kommer också att få en förståelse för hur man konsumerar ett RESTful API i en webbapplikation och dynamiskt rendrerar ut komponenter.Vi kommer endast arbeta med Reacts grundläggande koncept: state-variabler, props, hämta data med useEffect och fetch samt react-router-dom för sidnavigering.
 
 #### Case
 Publiceras snarast via länk
@@ -283,7 +283,7 @@ Publiceras snarast via länk
 - Nodejs
 
 #### Beskrivning
-Modulen fokuserar på att förstå hur man använder websockets för att uppnå realtidskommunikation. Vi kommer utforska hur man kan göra en chattapplikation samt multiplayer spel med canvas.
+Modulen fokuserar på att förstå hur man använder websockets för att uppnå realtidskommunikation. Du kommer att lära dig om websockets, en teknik som tillåter webbapplikationer att ha en tvåvägskommunikation med servern. Vi kommer utforska hur man kan göra en chattapplikation samt multiplayer spel med canvas.
 
 #### Case
 Publiceras snarast via länk
@@ -311,7 +311,7 @@ Publiceras snarast via länk
 - MongoDB
 
 #### Beskrivning
-En fortsättning på introduktionen till backend med nodejs. Denna gången kommer ni lära er tekniker som krävs av en modern webbapplikation.
+Denna gången kommer ni lära er tekniker som krävs av en modern webbapplikation. Nu fokuserar vi att utveckla din förståelse för backendsystem med Node.js, Express och MongoDB. Du kommer också att få en fördjupa din kunskaper inom Express, ett ramverk för Node.js som gör det enklare att hantera routrar, händelser och databasförfrågningar med MongoDB. Du kommer också att lära dig om hur man sköter lösenord på ett säkert sätt och hur man kan använda sessioner för att förbättra användarupplevelsen.
 
 #### Case
 Publiceras snarast via länk
@@ -338,7 +338,7 @@ Publiceras snarast via länk
 - *Valfritt*
 
 #### Beskrivning
-Den här modulen jobbar ni tillsammans för att producera en webbapplikation för en kund. Fokus är att sköta Github, dela upp och organisera arbete.
+Modulenfokuserar på grundläggande teamarbete och projektledning inom webbutveckling. Ni kommer att lära sig hur man samarbetar och hanterar mjukvaruprojekt på Github med Kanban-metodik. De kommer också att få en förståelse för projektstyrning, inklusive planering, uppföljning och organisation av uppgifter. Målet med modulen är att ge er färdigheter för att samarbeta effektivt i teams och leda framgångsrika projekt.
 
 #### Case
 Publiceras snarast via länk
@@ -368,7 +368,7 @@ Publiceras snarast via länk
 - CSS
 
 #### Beskrivning
-Den här modulen kommer ni utforska ett av de mest populära programspråken för att bygga webbapplikationer. Flera av koncepten ni stöter på här är kända sedan tidigare men nu får ni se skillnaden mellan Javascript och PHP. Dessutom kommer ni jobba med Docker containrar för att isolera utecklingsmiljöer.
+Den här modulen kommer ni utforska ett av de mest populära programspråken för att bygga webbapplikationer. Flera av koncepten ni stöter på här är kända sedan tidigare men nu får ni se skillnaden mellan Javascript och PHP. Dessutom kommer ni jobba med Docker containers för att isolera utecklingsmiljöer.
 
 #### Case
 Publiceras snarast via länk
@@ -393,7 +393,7 @@ Publiceras snarast via länk
 - *Valfritt*
 
 #### Beskrivning
-Använd era nya kunskaper för att bygga något som imponerar er själva och framtida anställare och kunder.
+Använd era nya kunskaper för att bygga något som imponerar er själva och framtida anställare och kunder. Detta är det sista projektet i webbutvecklingsprogrammet. Ni kan välja att arbeta ensamma eller i en grupp.
 
 #### Case
 Publiceras snarast via länk
