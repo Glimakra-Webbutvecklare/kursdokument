@@ -29,7 +29,7 @@ En webbutvecklare behöver kunna ett spektrum av olika verktyg och färdigheter:
 10. Trello (Kanban Projekthantering)
 11. Adobe Creative Suite (Design)
 
-**Färdigheter - Webutvecklare**
+**Färdigheter - Webbutvecklare**
 1. Bygga simpla statiska hemsidor med grundläggande webbtekniker
 2. Utforma de vanligaste responsiva layoutsen för hemsidor
 3. Kunna samarbeta och versionhantera mjukvaruprojekt med Git
@@ -148,7 +148,7 @@ Publiceras snarast via länk
 - Javascript
 
 #### Beskrivning
-TO BE WRITTEN
+Under modulen kommer du att lära dig att bygga enkla men snygga statiska hemsidor med hjälp av CSS.Vi kommer titta på de vanligaste responsiva layoutarna för moderna hemsidor. Du kommer också att få en förståelse för grundläggande principer i grafisk formgivning för webben, så att du kan applicera dem på dina projekt. Med denna modul som grund, kommer du vara redo att fortsätta din utbildning inom webbutveckling.
 
 #### Case
 Publiceras snarast via länk
@@ -164,7 +164,7 @@ Publiceras snarast via länk
 **Färdigheter**: 
 - Bygga simpla statiska hemsidor med grundläggande webbtekniker
 - Kunna samarbeta och versionhantera mjukvaruprojekt med Git
-- Kunna redogöra innebörden för grundläggande programmeringstermer
+- Skapa en dynamisk hemsida med logik kopplat till knappar, sökfält med mera
 - Struktera program enligt den objekt-orienterade paradigmen
 - Förståelse hur man konsumerar ett RESTful API i en webbapplikation
 
@@ -174,7 +174,7 @@ Publiceras snarast via länk
 - Javascript
 
 #### Beskrivning
-TO BE WRITTEN
+Vår introduktion till grundläggande programmering med Javascript. Du kommer att få en förståelse för de viktigaste programmeringstermerna och hur de används i samband med Javascript. Genom att arbeta med praktiska övningar, kommer du att lära dig att skapa en dynamisk hemsida med logik som är kopplad till knappar och sökfält. Du kommer också att få en förståelse för hur man konsumerar ett RESTful API i en webbapplikation, vilket är en viktig färdighet för att bygga avancerade webbapplikationer. Modulen lägger grunden för din fortsatta utbildning inom webbutveckling.
 
 #### Case
 Publiceras snarast via länk
@@ -191,6 +191,8 @@ Publiceras snarast via länk
 
 **Färdigheter**: 
 - Hantera en egen virtuel privat server för att publicera webbapplikationer
+- Hur man använder köper och hanterar en domän
+- Grundläggande förståelse hur man använder ett Content Management System (CMS)
 - Använda etablerade grafiska verktyg för att bygga enklare hemsidor
 
 **Programspråk & Ramverk**: 
@@ -200,7 +202,7 @@ Publiceras snarast via länk
 - Markdown
 
 #### Beskrivning
-TO BE WRITTEN
+Modulen fokuserar på teknikerna som krävs för att publicera och hantera en webbapplikation på internet. Du kommer att lära dig att hantera en egen virtuell privat server (VPS) och hur man använder och hanterar en domän. Modulen ger också en grundläggande förståelse för hur man använder ett Content Management System (CMS), såsom Wordpress, för att bygga och underhålla hemsidor. Denna modul är avgörande för att förstå de tekniska aspekterna av att publicera och underhålla en webbapplikation.
 
 #### Case
 Publiceras snarast via länk
