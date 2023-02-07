@@ -7,7 +7,7 @@ authors: Henry Bergström | Anders Sjunnesson
 # Webbutvecklare - Kursdokument
 
 ## Programöversikt
-I kursen Webbutvecklare lär du dig att programmera webbapplikationer. Tydliga fokus i kursen är webbprogrammering med god kodkvalité, samt utveckling av en applikations användargränssnitt. Ett övergripande mål med kursen är att göra dig redo för att ta dig an olika utmaningar i rollen som frilansare eller webbprogammerare i ett team. Kursen omfattar programmering både frontend och backend, och i senare delen av kursen kommer du få skapa ett eget examensprojekt.
+I kursen Webbutvecklare lär du dig att programmera webbapplikationer - från skiss till färdig kod och design. Tydliga fokus i kursen är att skapa versionshanterad kod med god kodkvalité, att programmera utan ramverk och med ramverk, samt att designa funktionella och tilltalande användargränssnitt. Ett övergripande mål med kursen är att göra dig redo för att ta dig an olika utmaningar i en framtida roll som frilans eller webbprogammerare i team.  
 
 ### Hur du kommer lära dig
 Kursen Webbutvecklare baseras på olika moduler. Varje modul inleds med ett 2-3 veckors föreläsningar, varvat med mindre övningsuppgifter. Till varje modul finns en större inlämningsuppgift – ett case. Ett case beskriver en applikation som ska utvecklas. I beskrivningen finns angivet ramar för applikationen, grundläggande krav och dessutom utmaningar som du kan välja att anta. Case syftar till att du ska visa vad du har lärt dig under en modul. 
@@ -97,8 +97,8 @@ Unders kursen kommer du att hantera en mängd olika verktyg, få kunskap förmed
 | 8           | Spel och websockets            | Skapa en canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer.            | HT:2   | individuellt | 6 (v38-v43) |
 | 9           | Fullstack Node.js              | Bygg en fullstack webbapplikation med inloggning och resurs. Använd en molnbaserad MongoDB databas.    | HT:3   | individuellt | 6 (v45-v50) |
 | 10          | Arbeta i team                  | Jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.                | VT:1   | grupp        | 6 (v2-v7)   |
-| 11          | Fullstack PHP                  | Skapa en webbapplikation med PHP. Lagra data i relationsdatabasen MySQL. Sökmotoroptimering.           | VT:2   | ind /grupp   | 6 (v9-v14)  |
-| 12          | Examensprojekt                 | Använd dina kunskaper och bygg en egen webbapplikation.                                                | VT:3   | individuellt | 6 (v16-v22) |
+| 11          | Fullstack PHP                  | Skapa en webbapplikation med PHP. Lagra data i relationsdatabasen MySQL. Sökmotoroptimering.           | VT:2   | ind / grupp  | 6 (v9-v14)  |
+| 12          | Examensprojekt                 | Använd dina kunskaper och skapa en webbapplikation.                                                    | VT:3   | ind / grupp  | 6 (v16-v22) |
 
 
 ---
@@ -241,7 +241,7 @@ En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska a
 - Hantera en egen virtuell privat server för att publicera webbapplikationer
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
 - Kunna bygga ett eget RESTful API med Node.js
-- Kunna ta skisser och översätta dem till demonstrerande digitala prototyper
+- Omsätta skisser till digitala prototyper
 
 
 **Programspråk & Ramverk**: 
@@ -271,7 +271,7 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en w
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
 - Använda ramverket React.js för att bygga en modern Single Page Application (SPA)
 - Förståelse hur man konsumerar ett RESTful API i en webbapplikation
-- Kunna ta skisser och översätta dem till demonstrerande digitala prototyper
+- Omsätta skisser till digitala prototyper och funktionella användargränsnitt
 
 
 **Programspråk & Ramverk**: 
@@ -297,7 +297,8 @@ Publiceras snarast via länk
 **Färdigheter**: 
 - Struktera program enligt den objekt-orienterade paradigmen
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
-- implementera webapplikationer med realtidskommunikation
+- Implementera realtidskommunikation i webapplikationer
+- Omsätta skisser till digitala prototyper och funktionella användargränsnitt
 
 
 **Programspråk & Ramverk**: 
@@ -328,7 +329,7 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en a
 - Förståelse hur man konsumerar ett REST API i en webbapplikation
 - Kunna applicera vanliga backendtekniker för dagens webbapplikationer så som password hasing, routes, templating engine, sessions, cookies
 - Förståelse för hur man hämtar, lägger till, förändrar och tar bort data från databasen MongoDB 
-- Omsätta skisser till digitala prototyper och användargränsnitt
+- Omsätta skisser till digitala prototyper och funktionella användargränsnitt
 
 
 **Programspråk & Ramverk**: 
@@ -350,18 +351,19 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en a
 - Visual Studio Code
 - Git (GitHub)
 - Unix terminalen
+- Docker Desktop
 - Trello
 
 **Färdigheter**: 
 - Kommunicera med extern kund
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
-- Omsätta skisser till digitala prototyper och användargränssnitt
+- Omsätta skisser till digitala prototyper och funktionella användargränsnitt
 - Hantera en egen virtuel privat server för att publicera webbapplikationer
 - Kunna kommunicera tekniska problem och lösningar till personer utan teknisk kompetens
 - Planera och tidsuppskatta ett arbete med olika sprintar
 
 
-**Programspråk & Ramverk**: 
+**Programspråk & Ramverk**:
 - Visual Studio Code
 - Git (GitHub)
 - Docker
@@ -384,18 +386,19 @@ En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska a
 - Visual Studio Code
 - Git (GitHub)
 - Unix Terminalen / WSL2
-- Docker
+- Docker Desktop
 - MySQL Workbench
 
 **Färdigheter**: 
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
-- Kunna ta skisser och översätta dem till demonstrerande digitala prototyper
+- Omsätta skisser till digitala prototyper och funktionella användargränsnitt
 - Hantera en egen virtuel privat server för att publicera webbapplikationer
 - Använda PHP för att skapa en webbapplikation med routes och sessioner
-
+- Förstå grundläggande sökmotorsoptimering
 
 **Programspråk & Ramverk**: 
-- PHP, composer
+- Docker
+- PHP
 - Nginx / Apache
 - MySQL
 - HTML, CSS och JavaScript
@@ -421,6 +424,7 @@ En uppgift som du kan välja att arbeta själv med eller tillsammans med någon 
 - Kunna ta skisser och översätta dem till demonstrerande digitala prototyper
 - Kunna kommunicera tekniska problem och lösningar till personer utan teknisk kompetens
 - Hantera en egen virtuel privat server för att publicera webbapplikationer
+- Förstå vad TypeScript tillför i webbprogrammering 
 
 
 **Programspråk & Ramverk**: 
