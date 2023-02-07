@@ -110,12 +110,12 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 - Git (GitHub)
 - Unix terminalen
 
-**Färdigheter**: 
+**Förståelse och färdigheter**: 
 - Bygga enkla statiska webbsidor med fokus på struktur, innehåll och tillgänglighet
 - Validera kod
 - Versionhantera med Git
 
-**Programspråk & Ramverk**: 
+**Programspråk och ramverk**: 
 - HTML
 - Markdown
 
@@ -134,13 +134,13 @@ En individuell uppgift utifrån givna ramar där du ska skapa några olika webbs
 
 **Verktyg**: Visual Studio Code, Git (GitHub)
 
-**Färdigheter**: 
+**Förståelse och färdigheter**: 
 - Bygga statiska webbsidor med HTML och CSS
 - Versionhantera mjukvaruprojekt med Git
 - Utforma responsiv layout med fokus på *mobile first*
 - Använda grundläggande principer i grafisk formgivning för webben
 
-**Programspråk & Ramverk**: 
+**Programspråk och ramverk**: 
 - HTML
 - CSS
 
@@ -155,13 +155,13 @@ En individuell uppgift utifrån givna ramar där du ska designa flera webbsidor.
 
 **Verktyg**: Visual Studio Code, Git (GitHub)
 
-**Färdigheter**: 
+**Förståelse och färdigheter**: 
 - Förstå grunder i programspråket JavaScript 
 - Bygga dynamiska webbsidor med HTML, CSS och JavaScript 
 - Versionshantera mjukvaruprojekt med Git
 - Kunna redogöra innebörden för grundläggande programmeringstermer
 
-**Programspråk & Ramverk**: 
+**Programspråk och ramverk**: 
 - HTML
 - CSS
 - JavaScript
@@ -180,7 +180,7 @@ En individuell uppgift utifrån givna ramar där du ska skapa en enkel applikati
 - Git (Github)
 - Insomnia
 
-**Färdigheter**: 
+**Förståelse och färdigheter**: 
 - Bygga dynamiska webbsidor med logik kopplat till händelselyssnare via knappar, sökfält med mera
 - Versionhantera mjukvaruprojekt med Git
 - Förstå hur asynkron kod skapar förutsättningar för en applikation
@@ -188,7 +188,7 @@ En individuell uppgift utifrån givna ramar där du ska skapa en enkel applikati
 - Använda olika metoder för att hantera arrayer och objekt
 - Skapa egna funktioner för att rendera data
 
-**Programspråk & Ramverk**: 
+**Programspråk och ramverk**: 
 - HTML
 - CSS
 - JavaScript
@@ -210,13 +210,13 @@ En individuell uppgift utifrån givna ramar där du ska skapa en mer avancerad a
 - Wordpress
 - Jekyll
 
-**Färdigheter**: 
+**Förståelse och färdigheter**: 
 - Hantera en egen virtuel privat server för att publicera webbapplikationer
 - Hur man använder köper och hanterar en domän
 - Grundläggande förståelse för olika webbaserade system Content Management System (CMS)
 - Använda etablerade grafiska verktyg för att bygga enklare hemsidor
 
-**Programspråk & Ramverk**: 
+**Programspråk och ramverk**: 
 - HTML
 - CSS
 - Javascript
@@ -237,7 +237,7 @@ En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska a
 - Git (GitHub)
 - Unix terminalen
 
-**Färdigheter**: 
+**Förståelse och färdigheter**: 
 - Hantera en egen virtuell privat server för att publicera webbapplikationer
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
 - Kunna bygga ett eget RESTful API med Node.js
@@ -245,7 +245,7 @@ En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska a
 - Validering av data frontend och backend
 
 
-**Programspråk & Ramverk**: 
+**Programspråk och ramverk**: 
 - HTML
 - CSS
 - JavaScript
@@ -268,14 +268,14 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en w
 - Git (Github)
 - Unix Terminalen
 
-**Färdigheter**: 
+**Förståelse och färdigheter**: 
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
 - Använda ramverket React.js för att bygga en modern Single Page Application (SPA)
 - Förståelse hur man konsumerar ett RESTful API i en webbapplikation
 - Omsätta skisser till digitala prototyper och funktionella användargränsnitt
 
 
-**Programspråk & Ramverk**: 
+**Programspråk och ramverk**: 
 - Javascript
 - Reactjs
 
@@ -295,14 +295,14 @@ Publiceras snarast via länk
 - Unix Terminalen / WSL2
 - Local Storage
 
-**Färdigheter**: 
+**Förståelse och färdigheterr**: 
 - Struktera program enligt den objekt-orienterade paradigmen
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
 - Implementera realtidskommunikation i webapplikationer
 - Omsätta skisser till digitala prototyper och funktionella användargränsnitt
 
 
-**Programspråk & Ramverk**: 
+**Programspråk och ramverk**: 
 - HTML
 - CSS
 - JavaScript
@@ -325,7 +325,7 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en a
 - Git (Github)
 - Unix Terminalen
 
-**Färdigheter**: 
+**Förståelse och färdigheter**: 
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
 - Förståelse hur man konsumerar ett REST API i en webbapplikation
 - Kunna applicera vanliga backendtekniker för dagens webbapplikationer så som *password hasing, routes, templating engine, sessions, cookies*
@@ -333,7 +333,7 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en a
 - Omsätta skisser till digitala prototyper och funktionella användargränsnitt
 
 
-**Programspråk & Ramverk**: 
+**Programspråk och ramverk**: 
 - Node.js
 - Express
 - MongoDB
@@ -355,7 +355,7 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en a
 - Docker Desktop
 - Trello
 
-**Färdigheter**: 
+**Förståelse och färdigheter**: 
 - Kommunicera med extern kund
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
 - Omsätta skisser till digitala prototyper och funktionella användargränsnitt
@@ -365,7 +365,7 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en a
 - Förståelse för att arbeta som webbprogrammerare
 
 
-**Programspråk & Ramverk**:
+**Programspråk och ramverk**:
 - Visual Studio Code
 - Git (GitHub)
 - Docker
@@ -391,7 +391,7 @@ En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska a
 - Docker Desktop
 - MySQL Workbench
 
-**Färdigheter**: 
+**Förståelse och färdigheter**: 
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
 - Omsätta skisser till digitala prototyper och funktionella användargränsnitt
 - Hantera en egen virtuel privat server för att publicera webbapplikationer
@@ -399,7 +399,7 @@ En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska a
 - Förstå grundläggande sökmotoroptimering
 - Hantera en applikation med certifikat
 
-**Programspråk & Ramverk**: 
+**Programspråk och ramverk**: 
 - Docker
 - PHP
 - Nginx / Apache
@@ -422,7 +422,7 @@ En uppgift som du kan välja att arbeta själv med eller tillsammans med någon 
 - Git (GitHub)
 - ...
 
-**Färdigheter**: 
+**Förståelse och färdigheter**: 
 - Planera och tidsuppskatta eget arbete
 - Kunna ta skisser och översätta dem till demonstrerande digitala prototyper
 - Kunna kommunicera tekniska problem och lösningar till personer utan teknisk kompetens
@@ -430,7 +430,7 @@ En uppgift som du kan välja att arbeta själv med eller tillsammans med någon 
 - Förståelse vad TypeScript tillför i webbprogrammering 
 
 
-**Programspråk & Ramverk**: 
+**Programspråk och ramverk**: 
 - *Valfritt*
 
 #### Beskrivning
@@ -443,7 +443,10 @@ Uppgiftens innehåll skapar du själv och kommer att framgå av ett slutgiltigt 
 
 
 ## Kursintyg
-Case i kursen som betygsätts *Godkänd* framgår av slutgiltigt kursintyg.  
+Case i kursen som betygsätts *Godkänd* framgår av slutgiltigt kursintyg. I kursintyget anges också examensprojektets inriktning. 
 
 ## Kompletting
 Möjlighet att komplettera enstaka moduler erbjuds under pågående kurs.
+
+## Portfolio
+...
