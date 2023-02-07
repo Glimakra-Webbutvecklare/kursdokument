@@ -1,89 +1,107 @@
 ---
 title: Glimåka Webbutvecklare - Kursdokument
-author: Henry Bergström
+authors: Henry Bergström | Anders Sjunnesson
 
 ---
 
 # Webbutvecklare - Kursdokument
 
 ## Programöversikt
-Världen digitaliseras i en ständigt växande takt. Från små till stora aktörer behöver nya tekniska lösningar på föråldrade processer. Rollen som en webbutvecklare spelar är kritisk för att tillgodose detta. Webbutveckling innebär att kartlägga underliggande behov, förenkla och automatisera dem i ett programspråk med förståelse över användarens upplevelse och visuell preferens. Programmets mål är att göra dig redo för ta dig an industrins utmaningar antingen som frilansare eller tillsammans i ett större team. Under större delen av programmet kommer du att utforska alla färdigheter som krävs påbörja din karriär som webbutvecklare. Den sista tiden har du tillfälle att specialicera dig inom det ämne som tilltala dig mest. 
-
+I kursen Webbutvecklare kommer du lära dig att programmera webbapplikationer. Tydliga fokus i kursen är dels webbprogrammering med god kodkvalité, dels webbdesign med förståelse för användargränssnitt. Ett övergripande mål med kursen är att göra dig redo för att ta dig an olika utmaningar som en frilansare eller ett arbete inom ett större team. 
 
 ### Hur du kommer lära dig
-Programmet är utformat kring moduler. Varje modul är avgränsat inom ett visst område. Ni som deltagare kommer under modulens gång få ta del av föreläsning varvat med övningsuppgifter och eget arbete. **Varje modul har ett case** som avslutande moment. Ett case är en större uppgift med utsatta ramar som är ert tillfälle att visa vad ni har lärt er under modulen. Notera att **casen är obligatoriskt att slutföra**  och betygsätts med *Komplettering Krävs* eller *Godkänt*
+Kursen Webbutvecklare baseras på olika moduler. Varje modul inleds med ett par veckors föreläsningar, varvat med mindre övningsuppgifter. Till varje modul finns en större inlämningsuppgift – ett case. Ett case beskriver en applikation som ska utvecklas. I beskrivningen finns angivet ramar för applikationen, grundläggande krav och dessutom utmaningar som du kan välja att anta. Case syftar till att du ska visa vad du har lärt dig under en modul. 
+
+Det finns möjlighet till handledning under modulperioder. I rollen som framtida programmerare bör du tycka om att lösa problem och att felsöka kod på egen hand.
+
+De flesta case är individuella inlämningsuppgifter. Några moduler innebär att du arbetar tillsammans med andra i ett case.
+
+Redovisning av case sker ca en arbetsvecka innan en modul avslutas. Case är obligatoriska och bedöms som Godkänt, eller Komplettering krävs.
+I arbetsveckan efter redovisning av ett case finns möjlighet att förbereda sig för nästa modul, att på egen hand förbättra funktionalitet i en applikation, eller eventuellt komplettera ett case för att nå Godkänt.
+
+Under de två åren som kursen pågår finns sammanlagt 12 case, 3 per termin. En ny modul baseras på kunskaper du inhämtat från tidigare moduler. Det innebär att du som kursdeltagare behöver vara i fas med studier för att tillgodogöra dig kursinnehållet. Kursdeltagare som behöver komplettera mer än en modul kommer erfarenhetsmässigt få svårt att fullfölja kursen. 
 
 ### Vad du kommer lära dig
-En webbutvecklare behöver kunna ett spektrum av olika verktyg och färdigheter:
+Unders kursen kommer du att hantera en mängd olika verktyg, få kunskap förmedlat och nå färdigheter inom olika områden.
 
 **Verktyg**
-1. Visual Studio Code (Texteditor)
-2. Unix Terminalen / WSL2 (Bash)
-3. Git (Versionhantering)
-4. MySQL Workbench (Databashantering)
-5. Docker Desktop (Programisolering)
-6. Insomnia (API Klient)
-7. Wordpress (Blog & CMS)
-8. Jekyll (Static Site Generator)
-9. Figma (Design och protoype)
-10. Trello (Kanban Projekthantering)
-11. Adobe Creative Suite (Design)
+1.	Visual Studio Code (editor)
+2.	Webbutvecklarverktyg i browsers (Chrome, Edge, Firefox mfl)
+3.	Git och GitHub (versionshantering)
+4.	Unix terminalen / WSL2 (bash)
+5.	Docker (virtualisering)
+6.	Insomnia (API klient)
+7.	Wordpress (blog & CMS)
+8.	Jekyll (static sitegenerator)
+9.	MySQL Workbench (databashantering)
+10.	Figma (design och prototype)
+11.	Trello (projekthantering)
+12.	Adobe Creative Suite (design)
 
-**Färdigheter - Webbutvecklare**
-1. Bygga simpla statiska hemsidor med grundläggande webbtekniker
-2. Utforma de vanligaste responsiva layoutsen för hemsidor
-3. Kunna samarbeta och versionhantera mjukvaruprojekt med Git
-4. Hantera en egen virtuel privat server för att publicera webbapplikationer
-5. Använda etablerade grafiska verktyg för att bygga enklare hemsidor
-6. Kunna redogöra innebörden för grundläggande programmeringstermer
-7. Struktera program enligt den objekt-orienterade paradigmen
-8. implementera webapplikationer med realtidskommunikation
-9. Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
-10. Förståelse hur man konsumerar ett RESTful API i en webbapplikation
-11. Kunna bygga ett eget RESTful API med Node.js
-12. Använda ramverket Reactjs för att bygga en modern Single Page App (SPA)
-13. Kunna applicera vanliga backendtekniker för dagens webbapplikationer så som password hasing, routes, templating engine, sessions, cookies
-14. Förståelse hur man hämtar, lägger till, förändrar och tar bort data från en databas
-15. Kunna kommunicera tekniska problem och lösningar till personer utan teknisk kompetens
-16. Planera och estimera eget arbete och deadlines
+**Förståelse och färdigheter - webbprogrammering**
+1.	Bygga enkla statiska webbsidor
+2.	Skapa tillgängliga webbsidor med struktur och innehåll
+3.	Utforma responsiv layout för webben
+4.	Bygga interaktiva dynamiska webbsidor
+5.	Kunna samarbeta och versionshantera mjukvaruprojekt med Git
+6.	Hantera en virtuell server för att publicera webbapplikationer
+7.	Använda etablerade grafiska verktyg
+8.	Förstå och redogöra för grundläggande termer inom webbprogrammering
+9.	Strukturera och dokumentera kod, följa kodstandarder
+10.	Skapa objektorienterad kod
+11.	Skapa webbapplikationer för realtidskommunikation
+12.	Använda dokumentationsresurser för att lösa problem
+13.	Hantera kommunikation baserat på API resurser
+14.	Kunna bygga ett eget REST API med Node.js
+15.	Använda ramverket React för att bygga en modern Single Page Application (SPA)
+16.	Använda olika tekniker för backend, som ex routes, modules, password hashing, templating engine, sessions, cookies
+17.	Kunskap i hur man bygger en egen CRUD applikation för att hämta, lägga till, förändra och ta bort data från en databas
+18.	Kunna kommunicera tekniska problem och lösningar med personer utan teknisk kompetens
+19.	Planera och tidsuppskatta arbete 
+20.	Arbeta i ett team för att utveckla en applikation
 
-**Färdigheter - Design**
-1. Kunna applicera de grundläggande principerna i grafisk formgivning för webben
-2. Kunna kommunicera konsisa varumärken och designspråk genom en webbtjänst
-3. Kunna ta skisser och översätta dem till demonstrerande digitala prototyper
-4. Kunna applicera specifika designprinciper för webben 
 
+**Förståelse och färdigheter - webbdesign**
+1.	Applicera grundläggande principer i grafisk formgivning
+2.	Förstå och kommunicera varumärke, använda designspråk genom webbtjänster
+3.	Planera och skissa gränssnitt, omsätta skisser till digital prototyp och färdig applikation
+4.	Kunna applicera specifika design principer för webben
 
 
 **Programspråk & Ramverk**
-1. Markdown
-2. HTML5
-3. CSS/Sass
-4. JavaScript/TypeScript
-5. Nodejs 
-6. Express 
-7. Reactjs
-8. MongoDB
-9. MySQL
-10. PHP
+1.	Markdown
+2.	HTML5
+3.	CSS/Sass
+4.	JavaScript
+5.	JSON
+6.	Nodejs
+7.	Express
+8.	Reactjs
+9.	MongoDB
+10.	MySQL
+11.	PHP
+12.	TypeScript
+
 
 ## Modulöversikt
 
-| Modulnummer | Modulnamn                      | Beskrivning                                                                                        | ~ antal veckor | Period | 
-| ----------- | ------------------------------ | -------------------------------------------------------------------------------------------------- | ------------ | ------ |
-| 1           | HTML och Git                   | HTML är webbens språk för struktur och innehåll. Grundläggande versionhantering med GitHub.        | 6 (v33-v37)            | HT:1   |
-| 2           | Grundläggande CSS              | Webbdesign och responsiv layout. Lär dig begrepp som box model, media queries och mobile first.    | 6 (v38-v43)            | HT:2   |
-| 3           | Grundläggande Javascript       | Introducering av JavaScript som progamspråk och Document Object Model (DOM)                        | 6 (v45-v50)           | HT:3   |
-| 4           | Fortsättning JavaScript        | Förstå hur JavaScript används för att skapa moderna webbapplikationer med API kommunikation.       | 6 (v2-v7)           | VT:1   |
-| 5           | Hosting, CMS och Wordpress     | Förstå hur applikationer publiceras för produktionsanvänding samt introduktion till Wordpress.     | 6 (v9-v14)           | VT:2   |
-| 6           | Backend med Node.js            | Bygg er första webbapplikation med inloggning, data resurser                                       | 6 (v16-v22)          | VT:3   |
-| 7           | Frontend med ramverk           | Lär er hur man bygger Single Page Applications                                                     | 6 (v33-v37)           | HT:2   |
-| 8           | Spel och websockets            | Gör multiplayer spel på webben i realtid                                                           | 6 (v38-v43)           | HT:1   |
-| 9           | Fortsättning backend           | Lär er teknikerna som används i industrin för att bygga en säker och modern backend                | 6 (v45-v50)          | HT:3   |
-| 10          | Arbeta i team                  | Jobba i grupp tillsammans på ett större projekt och utforska vilka roller som behövs               | 6 (v2-v7)          | VT:1   |
-| 11          | Backend med PHP                | Utforska ett alternativt (och populärt) sätt att göra webappar                                     | 6 (v9-v14)         | VT:2   |
-| 12          | Examensprojekt                 | Samla ihop allt du har lärt dig och bygg något eget                                                | 6 (v16-v22)          | VT:3   |
+| Modulnummer | Modulnamn                      | Beskrivning                                                                                            | Period | Case         | ~ veckor    | 
+| ----------- | ------------------------------ | ------------------------------------------------------------------------------------------------------ | ------ | ------------ |             |
+| 1           | HTML och Git                   | HTML är webbens språk för struktur och innehåll. Grundläggande versionshantering med GitHub.           | HT:1   | individuellt | 6 (v33-v37) |
+| 2           | Grundläggande CSS              | Webbdesign och responsiv layout. Lär dig begrepp som *box model*, *media queries* och *mobile first*.  | HT:2   | individuellt | 6 (v38-v43) |
+| 3           | Grundläggande Javascript       | Introduktion till JavaScript som programspråk, hantera Document Object Model (DOM).                    | HT:3   | individuellt | 6 (v45-v50) |
+| 4           | Fortsättning JavaScript        | Asynkron kod med JavaScript, hämta data från API:er, läs data med filformaten JSON och XML.            | VT:1   | individuellt | 6 (v2-v7)   |
+| 5           | Hosting, CMS och Wordpress     | Introduktion till webbservrar och publiceringssystem, static site generators och Wordpress.            | VT:2   | grupp        | 6 (v9-v14)  |
+| 6           | Backend Node.js                | Bygg en CRUD applikation med resurser, hantera en filserver, och använd API för att hämta data.        | VT:3   | individuellt | 6 (v16-v22) |
+| 7           | Frontend med ramverk           | Lär dig hur man bygger en Single Page Application med ramverket React.                                 | HT:1   | individuellt | 6 (v33-v37) |          
+| 8           | Spel och websockets            | Skapa en canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer.            | HT:2   | individuellt | 6 (v38-v43) |
+| 9           | Fullstack Node.js              | Bygg en fullstack webbapplikation med inloggning och resurs. Använd en molnbaserad MongoDB databas.    | HT:3   | individuellt | 6 (v45-v50) |
+| 10          | Arbeta i team                  | Jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.                | VT:1   | grupp        | 6 (v2-v7)   |
+| 11          | Fullstack PHP                  | Skapa en webbapplikation baserad på PHP. Lagra data i en relationsdatabas som MySQL.                   | VT:2   | ind /grupp   | 6 (v9-v14)  |
+| 12          | Examensprojekt                 | Använd dina kunskaper och bygg en egen webbapplikation.                                                | VT:3   | individuellt | 6 (v16-v22) |
 
+
+---
 
 ### 1. HTML och Git
 
