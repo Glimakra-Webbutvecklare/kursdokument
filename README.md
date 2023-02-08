@@ -7,17 +7,17 @@ authors: Henry Bergström | Anders Sjunnesson
 # Webbutvecklare - Kursdokument
 
 ## Programöversikt
-I kursen Webbutvecklare lär du dig hantverket webbprogrammering - från designskisser till körbara och applikationer för produktion. Tydliga fokus i kursen är att skapa versionshanterad kod med god kodkvalité, att programmera med och utan ramverk, samt att designa funktionella och tillgängliga användargränssnitt. Ett övergripande mål med kursen är att göra dig redo för att ta dig an olika utmaningar i en framtida roll som frilans eller webbprogammerare i team.  
+I kursen Webbutvecklare lär du dig hur webbprogrammerering. Ett hanterk där skisser i logik, struktur och design blir körbara applikationer. Tydliga fokus i kursen är att skapa versionshanterad kod med god kodkvalité, att programmera utan och med ramverk, att designa funktionella och tillgängliga användargränssnitt. Ett övergripande mål med kursen är att göra dig redo för att ta dig an utmaningar i en framtida roll som webbprogammerare i team, eller frilans.  
 
 ### Hur du kommer lära dig
-Kursen Webbutvecklare baseras på olika moduler. Varje modul inleds med ett 2-3 veckors föreläsningar, varvat med mindre övningsuppgifter. Till varje modul finns en större inlämningsuppgift – ett *case*. Ett case beskriver en applikation som ska du ska utveckla. I beskrivningen finns angivna ramar, grundläggande krav och dessutom valbara utmaningar som du kan välja att anta. Case syftar till att du ska visa vad du har lärt dig under en modul. 
+Kursen Webbutvecklare baseras på olika moduler. Varje modul inleds med 2-3 veckors föreläsningar, varvat med mindre övningsuppgifter. Till varje modul finns en större inlämningsuppgift – ett *case*. Ett case beskriver en applikation som du ska utveckla. I beskrivningen finns angivna ramar, grundläggande krav och valbara utmaningar. Case syftar till att du ska visa vad du har lärt dig under en modul. Ett case där du har antagit en eller flera utmaningar, kan bli en del av en framtida portfolio. 
 
 Det finns möjlighet till handledning under modulperioder. I rollen som framtida programmerare bör du tycka om att lösa problem och att felsöka kod på egen hand.
 
-De flesta case är individuella inlämningsuppgifter. Några moduler innebär att du arbetar tillsammans med andra i ett case.
+De flesta case är individuella inlämningsuppgifter. Några moduler innebär att du arbetar i ett case tillsammans med andra.
 
 Redovisning av case sker ca en arbetsvecka innan en modul avslutas. Case är obligatoriska och bedöms som *Godkänt*, eller *Komplettering krävs*.
-I arbetsveckan efter redovisning finns möjlighet att förbereda sig för nästa modul, att på egen hand förbättra funktionalitet i en applikation, eller eventuellt komplettera ett case för att nå *Godkänt*.
+I arbetsveckan efter redovisning finns möjlighet att förbereda sig för nästa modul, att på egen hand förbättra funktionalitet i en applikation, eller eventuellt komplettera för att nå *Godkänt* kursmoment.
 
 Under de två åren som kursen pågår finns sammanlagt 12 case, 3 per termin. En ny modul baseras på kunskaper du inhämtat från tidigare moduler. Det innebär att du som kursdeltagare behöver vara i fas med studier för att tillgodogöra dig kursinnehållet. Kursdeltagare som behöver komplettera mer än en modul kommer erfarenhetsmässigt få svårt att fullfölja kursen. 
 
@@ -32,7 +32,7 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 5.	Docker (virtualisering)
 6.	Insomnia (API klient)
 7.	Wordpress (blog & CMS)
-8.	Jekyll (static sitegenerator)
+8.	Jekyll (static site generator)
 9.	MySQL Workbench (databashantering)
 10.	Figma (design och prototype)
 11.	Trello (projekthantering)
@@ -55,10 +55,11 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 14.	Kunna bygga ett eget REST API med Node.js
 15.	Använda ramverket React för att bygga en modern Single Page Application (SPA)
 16.	Använda olika tekniker för backend, som ex *routes, modules, password hashing, templating engine, sessions, cookies*
-17.	Kunskap i hur man bygger en egen CRUD applikation för att hämta, lägga till, förändra och ta bort data från en databas
-18.	Kunna kommunicera tekniska problem och lösningar med personer utan teknisk kompetens
-19.	Planera och tidsuppskatta arbete 
-20.	Arbeta i ett team för att utveckla en applikation
+17.	Kunskap i hur man bygger en egen CRUD applikation för att hämta, lägga till, förändra och ta bort data
+18. Hantera data från fil och databas 
+19.	Kommunicera tekniska problem och lösningar med personer utan teknisk kompetens
+20.	Planera och tidsuppskatta arbete 
+21.	Arbeta enskilt och i team för att utveckla en applikation
 
 
 **Förståelse och färdigheter - webbdesign**
@@ -71,8 +72,8 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 **Programspråk & Ramverk**
 1.	Markdown
 2.	HTML5
-3.	CSS/Sass
-4.	JavaScript
+3.	CSS / Sass
+4.	JavaScript / ECMAScript
 5.	JSON
 6.	Node.js
 7.	Express
@@ -98,7 +99,7 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 | 9           | Fullstack Node.js              | Bygg en fullstack webbapplikation med inloggning och resurs. Använd en molnbaserad MongoDB databas.    | HT:3   | individuellt | 6 (v45-v50) |
 | 10          | Arbeta i team                  | Jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.                | VT:1   | grupp        | 6 (v2-v7)   |
 | 11          | Fullstack PHP                  | Skapa en webbapplikation med PHP. Lagra data i relationsdatabasen MySQL. Sökmotoroptimering.           | VT:2   | ind / grupp  | 6 (v9-v14)  |
-| 12          | Examensprojekt                 | Använd dina kunskaper och skapa en webbapplikation.                                                    | VT:3   | ind / grupp  | 6 (v16-v22) |
+| 12          | Examensprojekt                 | Använd dina kunskaper och skapa en webbapplikation utifrån dina egna idéer.                            | VT:3   | ind / grupp  | 6 (v16-v22) |
 
 
 ---
@@ -123,7 +124,7 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 
 
 #### Beskrivning
-Modulen har ett fokus på att förstå grundläggande verktyg och språk för webben. I modulen använder du editorn Visual Studio Code. Lär dig att starta projekt, anpassa editorn, namnge filer och mappar och skapa kod som kan valideras korrekt. Vidare får du en genomgång av HTML5 och hur man väljer rätt element för struktur och innehåll. Med mjukvarande Git lär du dig grundläggande versionshantering. I modulen kommer du lära dig att publicera din första webbsida med GitHub pages. 
+Modulen har ett fokus på att förstå grundläggande verktyg och språk för webben. I modulen använder du editorn Visual Studio Code. Lär dig att starta projekt, anpassa editorn, namnge filer och mappar och skapa kod som kan valideras korrekt. Vidare får du en genomgång av HTML5 och hur man väljer rätt element för struktur och innehåll. Validering av formulärfält via inbyggda funktioner. Med Git lär du dig grundläggande versionshantering. I modulen kommer du även se hur webbsidor kan publiceras med GitHub pages. Grundläggande bildhantering och en förståelse för att använda olika mediaresurser på en webbsida.
 
 
 #### Case
@@ -132,10 +133,12 @@ En individuell uppgift utifrån givna ramar där du ska skapa några olika webbs
 ---
 ### 2. Grundläggande CSS
 
-**Verktyg**: Visual Studio Code, Git (GitHub)
+**Verktyg**: 
+- Visual Studio Code
+- Git (GitHub)
 
 **Förståelse och färdigheter**: 
-- Bygga statiska webbsidor med HTML och CSS
+- Bygga webbsidor med HTML och CSS
 - Versionhantera mjukvaruprojekt med Git
 - Utforma responsiv layout med fokus på *mobile first*
 - Använda grundläggande principer i grafisk formgivning för webben
@@ -145,7 +148,7 @@ En individuell uppgift utifrån givna ramar där du ska skapa några olika webbs
 - CSS
 
 #### Beskrivning
-I modulen kommer du att bygga vidare på det innehåll som du arbetade med i första modulen. CSS skapar möjlighet att formge struktur och innehåll. Lär dig att använda selektorer för formgivning av webbsidor. Introduktion till responsiv layout. Lär dig begrepp som *box model*, *media queries* och *mobile first*. Grundläggande bildhantering och en försåelse för att använda olika mediaresurser på en webbsida. Validering av formulärfält via inbyggda funktioner.
+I modulen kommer du att bygga vidare på det innehåll som du arbetade med i första modulen. CSS skapar möjlighet att formge struktur och innehåll. Lär dig att använda olika selektorer för formgivning av webbsidor. Introduktion till responsiv layout. Lär dig begrepp som *box model*, *media queries* och *mobile first*. 
 
 #### Case
 En individuell uppgift utifrån givna ramar där du ska designa flera webbsidor. 
@@ -153,7 +156,9 @@ En individuell uppgift utifrån givna ramar där du ska designa flera webbsidor.
 ---
 ### 3. Grundläggande Javascript
 
-**Verktyg**: Visual Studio Code, Git (GitHub)
+**Verktyg**: 
+- Visual Studio Code
+- Git (GitHub)
 
 **Förståelse och färdigheter**: 
 - Förstå grunder i programspråket JavaScript 
@@ -164,7 +169,7 @@ En individuell uppgift utifrån givna ramar där du ska designa flera webbsidor.
 **Programspråk och ramverk**: 
 - HTML
 - CSS
-- JavaScript
+- JavaScript / ECMAScript
 
 #### Beskrivning
 Under modulen kommer du att lära dig grunderna i programspråket JavaScript. Du kommer att få hantera datatyper, villkor, kontrollstrukturer, händelselyssnare och upptäcka hur du med DOM (Document Object Model) kan skapa en dynamisk webbsida. Du kommer också att få en förståelse för grundläggande principer i grafisk formgivning för webben, och applicera dina idéer. Med modulen som grund, kommer du vara redo att fortsätta din utbildning inom webbutprogrammering.
@@ -181,7 +186,7 @@ En individuell uppgift utifrån givna ramar där du ska skapa en enkel applikati
 - Insomnia
 
 **Förståelse och färdigheter**: 
-- Bygga dynamiska webbsidor med logik kopplat till händelselyssnare via knappar, sökfält med mera
+- Bygga mer avancerade dynamiska webbsidor 
 - Versionhantera mjukvaruprojekt med Git
 - Förstå hur asynkron kod skapar förutsättningar för en applikation
 - Förståelse hur du hämtar data från ett API
@@ -195,10 +200,10 @@ En individuell uppgift utifrån givna ramar där du ska skapa en enkel applikati
 - JSON / XML
 
 #### Beskrivning
-I modulen kommer du att få en förståelse för vad synkron och asynkron kod är. Du kommer att få lära dig inbyggda objekt i JavaScript som Promise och Fetch. I olika praktiska övningar kommer du att få lära dig analysera och hämta data baserat på formatet JSON, och med olika iterationer för array och object välja ut och presentera data.
+I modulen kommer du att få en förståelse för vad synkron och asynkron kod är. Du kommer att få lära dig inbyggda objekt i JavaScript som Promise och Fetch. I olika praktiska övningar kommer du att få lära dig analysera och hämta data baserat på formatet JSON. Iterationer av arrayer och objekt, använda inbyggda och egna metoder för att välja ut och presentera data.
 
 #### Case
-En individuell uppgift utifrån givna ramar där du ska skapa en mer avancerad applikation för dynamiskt innehåll.  
+En individuell uppgift utifrån givna ramar där du ska skapa en applikation som presenterar ett dynamiskt innehåll.  
 
 ---
 ### 5. Hosting och Wordpress
@@ -208,11 +213,11 @@ En individuell uppgift utifrån givna ramar där du ska skapa en mer avancerad a
 - Versionhantera och samarbeta kring mjukvaruprojekt med Git (GitHub)
 - Unix terminalen
 - Wordpress
-- Jekyll
+- Static site generator Jekyll
 
 **Förståelse och färdigheter**: 
 - Hantera en egen virtuel privat server för att publicera webbapplikationer
-- Hur man använder köper och hanterar en domän
+- Domänhantering, köp av domän, olika typer av webbhotell
 - Grundläggande förståelse för olika webbaserade system Content Management System (CMS)
 - Använda etablerade grafiska verktyg för att bygga enklare hemsidor
 
@@ -223,7 +228,7 @@ En individuell uppgift utifrån givna ramar där du ska skapa en mer avancerad a
 - Markdown
 
 #### Beskrivning
-Modulen fokuserar på tekniker som krävs för att publicera och hantera en webbapplikation på internet. Du kommer att lära dig att hantera en egen virtuell privat server (VPS) och hur man använder och hanterar en domän. Modulen ger också en grundläggande förståelse för hur man använder ett Content Management System (CMS), såsom Wordpress, för att bygga och underhålla hemsidor. Modulen är avgörande för att förstå tekniska aspekter av att publicera och underhålla en webbapplikation.
+Modulen fokuserar på tekniker som krävs för att publicera och hantera en webbapplikation på internet. Du kommer att lära dig att hantera en egen virtuell privat server (VPS) och hur man använder och hanterar en domän. Modulen ger också en grundläggande förståelse för hur man använder ett Content Management System (CMS), ex Wordpress, för att bygga och underhålla hemsidor. Modulen är avgörande för att förstå tekniska aspekter av att publicera och underhålla en webbapplikation.
 
 #### Case
 En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska använda ett befintligt system för webbpublicering
@@ -240,9 +245,9 @@ En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska a
 **Förståelse och färdigheter**: 
 - Hantera en egen virtuell privat server för att publicera webbapplikationer
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
-- Kunna bygga ett eget RESTful API med Node.js
+- Kunna bygga ett eget REST API med Node.js
 - Omsätta skisser till digitala prototyper
-- Validering av data frontend och backend
+- Validera av data frontend och backend
 
 
 **Programspråk och ramverk**: 
@@ -257,11 +262,11 @@ En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska a
 Modulen är en introduktion till att bygga en backend applikation med JavaScript med Node.js och Express. Du kommer att lära dig grunderna i hur en webbserver hanterar klienters förfrågningar. Du kommer också att söka och använda dokumentationsresurser för att lösa problem som uppstår under utvecklingen. Genom praktiska övningar kommer du att lära dig att bygga ett eget REST API med Node.js, en av de mest använda teknikerna för att struktera ett API. Du kommer också att lära dig att omsätta designskisser till fungerande användargränssnitt.
 
 #### Case
-En individuell uppgift utifrån givna ramar där du från grunden ska bygga en webbserver som kan hantera en enklare resurs son lagras i en datafil på servern.
+En individuell uppgift utifrån givna ramar där du från grunden ska bygga en webbserver som kan hantera en enklare resurs son lagras i datafiler på servern.
 
 ---
 
-### 7. Frontend med ramverk 
+### 7. Frontend ramverk 
 
 **Verktyg**: 
 - Visual Studio Code
@@ -292,11 +297,11 @@ Publiceras snarast via länk
 **Verktyg**: 
 - Visual Studio Code
 - Git (Github)
-- Unix Terminalen / WSL2
+- Unix terminalen
 - Local Storage
 
 **Förståelse och färdigheterr**: 
-- Struktera program enligt den objekt-orienterade paradigmen
+- Struktera program enligt den objektorienterade paradigmen
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
 - Implementera realtidskommunikation i webapplikationer
 - Omsätta skisser till digitala prototyper och funktionella användargränsnitt
@@ -313,7 +318,7 @@ Publiceras snarast via länk
 Modulen fokuserar på att förstå och använda websockets för realtidskommunikation, en tvåvägskommunikation mellan klienter och en server. Du kommer att lära dig hur man upprättar en förbindelse och hur en chattapplikation kan se ut. I modulen finns ett fokus på objektorienterad programmering i JavaScript och att skapa grafik och animation i canvas element. Se hur data kan lagras i webbläsaren via Local Storage och hur cookies används för exempelvis att en användare av en applikation ska godkänna lagring av data enligt gällande datalagringsdirektiv. 
 
 #### Case
-En individuell uppgift utifrån givna ramar där du från grunden ska bygga en applikation (exempelvis ett spel) för realtidskommunikation.
+En individuell uppgift utifrån givna ramar där du från grunden ska bygga en multiplayer applikation (exempelvis ett spel).
 
 
 ---
@@ -327,7 +332,7 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en a
 
 **Förståelse och färdigheter**: 
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
-- Förståelse hur man konsumerar ett REST API i en webbapplikation
+- Förstå hur man konsumerar ett REST API i en webbapplikation
 - Kunna applicera vanliga backendtekniker för dagens webbapplikationer så som *password hasing, routes, templating engine, sessions, cookies*
 - Förståelse för hur man hämtar, lägger till, förändrar och tar bort data från databasen MongoDB 
 - Omsätta skisser till digitala prototyper och funktionella användargränsnitt
@@ -427,7 +432,7 @@ En uppgift som du kan välja att arbeta själv med eller tillsammans med någon 
 - Kunna ta skisser och översätta dem till demonstrerande digitala prototyper
 - Kunna kommunicera tekniska problem och lösningar till personer utan teknisk kompetens
 - Hantera en egen virtuel privat server för att publicera webbapplikationer
-- Förståelse vad TypeScript tillför i webbprogrammering 
+- Förståelse för webbprogrammering med TypeScript  
 
 
 **Programspråk och ramverk**: 
@@ -437,13 +442,13 @@ En uppgift som du kan välja att arbeta själv med eller tillsammans med någon 
 Använd dina nya kunskaper för att bygga en applikation som kan bli en given produkt i din portfolio. En applikation att visa för framtida arbetsgivare och kunder. Detta är det sista projektet i webbutvecklingsprogrammet. Du kan välja att arbeta ensam eller i en grupp.
 
 #### Case
-Uppgiftens innehåll skapar du själv och kommer att framgå av ett slutgiltigt kursintyg som kursdeltagare får efter utbildningen. Arbetet med examensprojektet kommer för den som ösnkar kunna påbörjas innan modulen startar. Kurslärare kommer tillsamamns med dig se till att ditt projekt motsvarar den tid som anges för modulen.   
+Uppgiftens innehåll skapar du själv och kommer att framgå av ett slutgiltigt kursintyg som kursdeltagare får efter utbildningen. Arbetet med examensprojektet kommer för den som önskar kunna påbörjas innan modulen startar. Kurslärare kommer tillsamamns med dig se till att ditt projekt motsvarar den tid som anges för modulen.   
 
 ---
 
 
 ## Kursintyg
-Case i kursen som betygsätts *Godkänd* framgår av slutgiltigt kursintyg. I kursintyget anges också examensprojektets inriktning. 
+Case i kursen som betygsätts *Godkänd* framgår av slutgiltigt kursintyg. I kursintyget anges också examensprojektet. 
 
 ## Kompletting
 Möjlighet att komplettera enstaka moduler erbjuds under pågående kurs.
