@@ -169,7 +169,7 @@ En individuell uppgift utifrån givna ramar där du ska designa flera webbsidor.
 **Programspråk och ramverk**: 
 - HTML
 - CSS
-- JavaScript / ECMAScript
+- JavaScript
 
 #### Beskrivning
 Under modulen kommer du att lära dig grunderna i programspråket JavaScript. Du kommer att få hantera datatyper, villkor, kontrollstrukturer, händelselyssnare och upptäcka hur du med DOM (Document Object Model) kan skapa en dynamisk webbsida. Du kommer också att få en förståelse för grundläggande principer i grafisk formgivning för webben, och applicera dina idéer. Med modulen som grund, kommer du vara redo att fortsätta din utbildning inom webbutprogrammering.
