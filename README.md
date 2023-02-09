@@ -1,6 +1,6 @@
 ---
 title: Glimåka Webbutvecklare - Kursdokument
-authors: Henry Bergström | Anders Sjunnesson
+authors: Henry Bergström, Anders Sjunnesson
 
 ---
 
