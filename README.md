@@ -124,7 +124,7 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 
 
 #### Beskrivning
-Modulen har ett fokus på att förstå grundläggande verktyg och språk för webben. I modulen använder du editorn Visual Studio Code. Lär dig att starta projekt, anpassa editorn, namnge filer och mappar och skapa kod som kan valideras korrekt. Vidare får du en genomgång av HTML5 och hur man väljer rätt element för struktur och innehåll. Validering av formulärfält via inbyggda funktioner. Med Git lär du dig grundläggande versionshantering. I modulen kommer du även se hur webbsidor kan publiceras med GitHub pages. Grundläggande bildhantering och en förståelse för att använda olika mediaresurser på en webbsida.
+Modulen har ett fokus på att förstå grundläggande verktyg och språk för webben. I modulen använder du editorn Visual Studio Code. Lär dig att starta projekt, anpassa editorn, namnge filer och mappar och skapa kod som kan valideras korrekt. Vidare får du en genomgång av HTML5 och hur man väljer rätt element för struktur och innehåll. Validering av formulärfält via inbyggda funktioner. Med Git lär du dig grundläggande versionshantering. I modulen kommer du även se hur webbsidor kan publiceras med GitHub pages. Vi går igenom grundläggande bildhantering och hur man använder olika mediaresurser på en webbsida.
 
 
 #### Case
