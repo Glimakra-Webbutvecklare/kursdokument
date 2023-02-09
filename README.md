@@ -73,7 +73,7 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 1.	Markdown
 2.	HTML5
 3.	CSS / Sass
-4.	JavaScript / ECMAScript
+4.	JavaScript
 5.	JSON
 6.	Node.js
 7.	Express
