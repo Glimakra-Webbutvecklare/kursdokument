@@ -45,15 +45,15 @@
 - Connecting to databases with PHP
 - Performing CRUD operations with PHP and SQL
 
-## Lesson 8: PHP and AJAX
-
-- Asynchronous requests with AJAX
-- Updating content without reloading the page
-
-## Lesson 9: PHP Project
+## Lesson 8: PHP Project
 
 - Building a complete full-stack PHP application
 - Putting into practice all of the concepts learned throughout the course.
+
+## Lesson 9: PHP and AJAX
+
+- Asynchronous requests with AJAX
+- Updating content without reloading the page
 
 ## Lesson 10: PHP Frameworks and Libraries
 
