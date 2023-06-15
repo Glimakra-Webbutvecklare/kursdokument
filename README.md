@@ -96,7 +96,7 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 | 6           | Backend Node.js                | Bygg en applikation som kan spara data som en fil, och använd API för att hämta data.                  | VT:3   | individuellt | 6 (v16-v22) |
 | 7           | Frontend med ramverk           | Lär dig hur man bygger en Single Page Application med ramverket React.                                 | HT:1   | individuellt | 6 (v33-v37) |          
 | 8           | Spel och websockets            | Skapa en canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer.            | HT:2   | individuellt | 6 (v38-v43) |
-| 9           | Fullstack Node.js              | Bygg en fullstack webbapplikation med inloggning och resurs. Använd en molnbaserad MongoDB databas.    | HT:3   | individuellt | 6 (v45-v50) |
+| 9           | Fullstack PHP              | Bygg en fullstack webbapplikation med inloggning och resurs. Använd en molnbaserad MongoDB databas.    | HT:3   | individuellt | 6 (v45-v50) |
 | 10          | Arbeta i team                  | Jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.                | VT:1   | grupp        | 6 (v2-v7)   |
 | 11          | Fullstack PHP                  | Skapa en webbapplikation med PHP. Lagra data i relationsdatabasen MySQL. Sökmotoroptimering.           | VT:2   | ind / grupp  | 6 (v9-v14)  |
 | 12          | Examensprojekt                 | Använd dina kunskaper och skapa en webbapplikation utifrån dina egna idéer.                            | VT:3   | ind / grupp  | 6 (v16-v22) |
@@ -323,7 +323,7 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en m
 
 ---
 
-### 9. Fullstack Node.js
+### 9. Fullstack PHP
 
 **Verktyg**: 
 - Visual Studio Code
@@ -334,17 +334,17 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en m
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
 - Förstå hur man konsumerar ett REST API i en webbapplikation
 - Kunna applicera vanliga backendtekniker för dagens webbapplikationer så som *password hasing, routes, templating engine, sessions, cookies*
-- Förståelse för hur man hämtar, lägger till, förändrar och tar bort data från databasen MongoDB 
+- Kunskap i hur man bygger en egen CRUD applikation för att hämta, lägga till, förändra och ta bort data 
 - Omsätta skisser till digitala prototyper och funktionella användargränsnitt
 
 
 **Programspråk och ramverk**: 
-- Node.js
-- Express
-- MongoDB
+- PHP
+- Laravel
+- MySQL
 
 #### Beskrivning
-I den här modulen lär du dig fler tekniker som utmärker en modern webbapplikation. Nu fokuserar vi att utveckla din förståelse för backendsystem med Node.js, Express och MongoDB. Du kommer också att få en fördjupa dina kunskaper inom Express, ett ramverk för Node.js som gör det enklare att hantera routrar, händelser och databasförfrågningar med MongoDB. Du kommer också att lära dig om hur man lagrar lösenord på ett säkert sätt och hur sessioner används för att förbättra användarupplevelsen av en applikation. Med fokus på både frontend och backend lär modulperioden ut hur en fullstack applikation byggs upp.
+I den här modulen lär du dig fler tekniker som utmärker en modern webbapplikation. Nu fokuserar vi att utveckla din förståelse för backendsystem med Laravel som bygger på PHP. Du kommer också att få en fördjupa dina kunskaper inom hur man arbetar med Models, Views Controllers. Laravel som gör det enklare att hantera routrar, händelser och databasförfrågningar. Du kommer också att lära dig om hur man lagrar lösenord på ett säkert sätt och hur sessioner används för att förbättra användarupplevelsen av en applikation. Med fokus på både frontend och backend lär modulperioden ut hur en fullstack applikation fungerar.
 
 #### Case
 En individuell uppgift utifrån givna ramar där du från grunden ska bygga en applikation som hanterar inloggning, sessioner och en resurs du väljer att hantera.
