@@ -94,7 +94,7 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 | 5           | Hosting, CMS och Wordpress     | Introduktion till webbservrar och publiceringssystem, static site generators och Wordpress.            | VT:2   | grupp        | 6 (v9-v14)  |
 | 6           | Backend Node.js                | Bygg en applikation som kan spara data som en fil, och använd API för att hämta data.                  | VT:3   | individuellt | 6 (v16-v22) |
 | 7           | Frontend med ramverk           | Lär dig hur man bygger en Single Page Application med ramverket React.                                 | HT:1   | individuellt | 6 (v33-v37) |          
-| 8           | Spel och websockets            | Skapa en canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer.            | HT:2   | individuellt | 6 (v38-v43) |
+| 8           | Spel och websockets            | Skapa en canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer. *Design:* PixelArt och Sprite Animation             | HT:2   | individuellt | 6 (v38-v43) |
 | 9           | Fullstack PHP              | Bygg en fullstack webbapplikation med inloggning och resurs. Använd en molnbaserad MongoDB databas.    | HT:3   | individuellt | 6 (v45-v50) |
 | 10          | Arbeta i team                  | Jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.                | VT:1   | grupp        | 6 (v2-v7)   |
 | 11          | Fullstack PHP                  | Skapa en webbapplikation med PHP. Lagra data i relationsdatabasen MySQL. Sökmotoroptimering.           | VT:2   | ind / grupp  | 6 (v9-v14)  |
