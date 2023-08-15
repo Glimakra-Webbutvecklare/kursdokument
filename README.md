@@ -87,7 +87,7 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 
 | Modulnummer | Modulnamn                      | Beskrivning                                                                                            | Period | Case         | ~ veckor    | 
 | ----------- | ------------------------------ | ------------------------------------------------------------------------------------------------------ | ------ | ------------ | ----------- |
-| 1           | HTML och Git                   | HTML är webbens språk för struktur och innehåll. Grundläggande versionshantering med GitHub. *Design:* Grafisk Formgivning - Grund           | HT:1   | individuellt | 6 (v33-v37) |
+| 1           | HTML och Git                   | HTML är webbens språk för struktur och innehåll. Grundläggande versionshantering med GitHub. *Design:* Grafisk Formgivning - Grund            | HT:1   | individuellt | 6 (v33-v37) |
 | 2           | Grundläggande CSS              | Webbdesign och responsiv layout. Lär dig begrepp som *box model*, *media queries* och *mobile first*.  | HT:2   | individuellt | 6 (v38-v43) |
 | 3           | Grundläggande Javascript       | Introduktion till JavaScript som programspråk, hantera Document Object Model (DOM).                    | HT:3   | individuellt | 6 (v45-v50) |
 | 4           | Fortsättning JavaScript        | Asynkron kod med JavaScript, hämta data från API:er, läs data med filformaten JSON och XML.            | VT:1   | individuellt | 6 (v2-v7)   |
