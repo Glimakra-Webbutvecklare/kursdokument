@@ -94,11 +94,11 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 | 4           | Fortsättning JavaScript        | Asynkron kod med JavaScript, hämta data från API:er, läs data med filformaten JSON och XML.            | VT:1   | individuellt | 6 (v2-v7)   |
 | 5           | Hosting, CMS och Wordpress     | Introduktion till webbservrar och publiceringssystem, static site generators och Wordpress.            | VT:2   | grupp        | 6 (v9-v13)  |
 | 6           | Backend PHP                 | Bygg en applikation som kan spara data som en fil, och använd API för att hämta data.                  | VT:3   | individuellt | 6 (v16-v23) |
-| 7           | Frontend med ramverk           | Lär dig hur man bygger en Single Page Application med ramverket React.                                 | HT:1   | individuellt | 6 (v34-v39) |          
+| 7           | Frontend med ramverk           | Lär dig hur man bygger en Single Page Application med ramverket React. *Design:* Micro-animtioner och usability                               | HT:1   | individuellt | 6 (v34-v39) |          
 | 8           | Spel och websockets            | Skapa en canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer. *Design:* PixelArt och Sprite Animation             | HT:2   | individuellt | 6 (v40-v46) |
 | 9           | Fullstack NodeJS              | Bygg en fullstack webbapplikation med inloggning och resurs. Använd en molnbaserad MongoDB databas.    | HT:3   | individuellt | 6 (v47-v51) |
 | 10          | Arbeta i team                  | Jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.                | VT:1   | grupp        | 6 (v2-v7)   |
-| 11          | Fullstack PHP                  | Skapa en webbapplikation med PHP. Lagra data i relationsdatabasen MySQL. Sökmotoroptimering.           | VT:2   | ind / grupp  | 6 (v9-v13)  |
+| 11          | Fullstack PHP                  | Skapa en webbapplikation med PHP. Lagra data i relationsdatabasen MySQL. Sökmotoroptimering. *Design:* CSS-Ramverk (Bootstrap)          | VT:2   | ind / grupp  | 6 (v9-v13)  |
 | 12          | Examensprojekt                 | Använd dina kunskaper och skapa en webbapplikation utifrån dina egna idéer.                            | VT:3   | ind / grupp  | 6 (v16-v23) |
 
 
