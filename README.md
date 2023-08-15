@@ -7,7 +7,7 @@ authors: Henry Bergström, Anders Sjunnesson
 # Webbutvecklare - Kursdokument
 
 ## Programöversikt
-I kursen Webbutvecklare lär du dig hur programmering för webben. Ett hanterk där skisser i logik, struktur och design blir körbara applikationer. Tydligt fokus i kursen är att skapa versionshanterad kod av hög kvalité, att programmera utan och med ramverk och att designa funktionella och tillgängliga användargränssnitt. Ett övergripande mål med kursen är att göra dig redo för att ta dig an utmaningar i en framtida roll som webbprogammerare i team, eller frilans.  
+I kursen Webbutvecklare lär du dig hur programmering för webben. Ett hanterk där skisser i logik, struktur och design blir körbara applikationer. Tydligt fokus i kursen är att skapa versionshanterad kod av hög kvalité, att programmera utan och med ramverk och att designa funktionella och tillgängliga användargränssnitt. Ett övergripande mål med kursen är att göra dig redo för att ta dig an utmaningar i en framtida roll som webbprogammerare som anställd, eller frilans.  
 
 ### Hur du kommer lära dig
 Kursen Webbutvecklare baseras på olika moduler. Varje modul inleds med 2-3 veckors föreläsningar, varvat med mindre övningsuppgifter. Till varje modul finns en större inlämningsuppgift – ett *case*. Ett case beskriver en applikation som du ska utveckla. I beskrivningen finns angivna ramar, grundläggande krav och valbara utmaningar. Case syftar till att du ska visa vad du har lärt dig under en modul. Ett case där du har antagit en eller flera utmaningar, kan bli en del av en framtida portfolio. 
@@ -36,7 +36,6 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 9.	MySQL Workbench (databashantering)
 10.	Figma (design och prototype)
 11.	Trello (projekthantering)
-12.	Adobe Creative Suite (design)
 
 **Förståelse och färdigheter - webbprogrammering**
 1.	Bygga enkla statiska webbsidor
