@@ -86,16 +86,16 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 ## Modulöversikt
 **OBS:** Angivna moduler och veckor kan komma att justeras.
 
-| Modulnummer | Modulnamn                      | Beskrivning                                                                                            | Period | Case         | ~ veckor    | 
+| Modulnummer | Modulnamn                      | Beskrivning                                                                                            | Period | Case         | Veckor ~   | 
 | ----------- | ------------------------------ | ------------------------------------------------------------------------------------------------------ | ------ | ------------ | ----------- |
 | 1           | HTML och Git                   | HTML är webbens språk för struktur och innehåll. Grundläggande versionshantering med GitHub. *Design:* Grundläggande - Grafisk Formgivning            | HT:1   | individuellt | 6 (v34-v39) |
 | 2           | Grundläggande CSS              | Webbdesign och responsiv layout. Lär dig begrepp som *box model*, *media queries* och *mobile first*.  | HT:2   | individuellt | 6 (v40-v46) |
 | 3           | Grundläggande Javascript       | Introduktion till JavaScript som programspråk, hantera Document Object Model (DOM).                    | HT:3   | individuellt | 6 (v47-v51) |
 | 4           | Fortsättning JavaScript        | Asynkron kod med JavaScript, hämta data från API:er, läs data med filformaten JSON och XML.            | VT:1   | individuellt | 6 (v2-v7)   |
 | 5           | Hosting, CMS och Wordpress     | Introduktion till webbservrar och publiceringssystem, static site generators och Wordpress.            | VT:2   | grupp        | 6 (v9-v13)  |
-| 6           | Backend PHP                 | Bygg en applikation som kan spara data som en fil, och använd API för att hämta data.                  | VT:3   | individuellt | 6 (v15-v22) |
+| 6           | Backend PHP                 | Bygg en applikation som kan lagra data som i en databas.                  | VT:3   | individuellt | 6 (v15-v22) |
 | 7           | Frontend med ramverk           | Lär dig hur man bygger en Single Page Application med ramverket React. *Design:* Micro-animtioner och usability                               | HT:1   | individuellt | 6 (v34-v39) |          
-| 8           | Backend NodeJS              | Bygg en fullstack webbapplikation med inloggning och resurs. Använd en molnbaserad MongoDB databas.    | HT:2   | individuellt | 6 (v40-v46) |
+| 8           | Backend NodeJS              | Bygg en fullstack webbapplikation med inloggning och resurs. Spara information till fil, använd en molnbaserad MongoDB databas.    | HT:2   | individuellt | 6 (v40-v46) |
 | 9           | Spel och websockets            | Skapa en canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer. *Design:* PixelArt och Sprite Animation             | HT:3   | individuellt | 6 (v47-v51) |
 | 10          | Fullstack PHP                  | Skapa en webbapplikation med PHP. Lagra data i relationsdatabasen MySQL. Sökmotoroptimering. *Design:* CSS-Ramverk (Bootstrap)          | VT:1   | ind / grupp  | 6 (v2-v7)  |
 | 11          | Arbeta i team                  | Jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.                | VT:2   | grupp        | 6 (v9-v13)   |
@@ -162,6 +162,7 @@ En individuell uppgift utifrån givna ramar där du ska designa flera webbsidor.
 
 **Förståelse och färdigheter**: 
 - Förstå grunder i programspråket JavaScript 
+- Hantera DOM, *Document Object Model*
 - Bygga dynamiska webbsidor med HTML, CSS och JavaScript 
 - Versionshantera mjukvaruprojekt med Git
 - Kunna redogöra innebörden för grundläggande programmeringstermer
@@ -175,9 +176,10 @@ En individuell uppgift utifrån givna ramar där du ska designa flera webbsidor.
 Under modulen kommer du att lära dig grunderna i programspråket JavaScript. Du kommer att få hantera datatyper, villkor, kontrollstrukturer, händelselyssnare och upptäcka hur du med DOM (Document Object Model) kan skapa en dynamisk webbsida. Du kommer också att få en förståelse för grundläggande principer i grafisk formgivning för webben, och applicera dina idéer. Med modulen som grund, kommer du vara redo att fortsätta din utbildning inom webbutprogrammering.
 
 #### Case
-En individuell uppgift utifrån givna ramar där du ska skapa en enkel applikation med händelselyssnare för dynamsikt innehåll. 
+En individuell uppgift utifrån givna ramar där du ska skapa en enkel applikation med händelselyssnare för dynamiskt innehåll. 
 
 ---
+
 ### 4. Fortsättning JavaScript
 
 **Verktyg**: 
@@ -241,12 +243,13 @@ En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska a
 - Visual Studio Code
 - Git (GitHub)
 - Unix terminalen
-- Docker
+- Docker Desktop
 - phpMyAdmin
 
 **Förståelse och färdigheter**: 
 - Skapa en grundläggande CRUD applikation baserad på PHP och MySQL
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
+- Förstå hur sessioner används i en webbserver
 - Hantera krypterade lösenord
 - Omsätta skisser till digitala prototyper
 - Validera data frontend och backend
@@ -365,6 +368,7 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en m
 - Git (GitHub)
 - Unix Terminalen / WSL2
 - Docker Desktop
+- phpMyAdmin
 - MySQL Workbench
 
 **Förståelse och färdigheter**: 
@@ -373,6 +377,7 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en m
 - Kunna applicera vanliga backendtekniker för dagens webbapplikationer så som *password hasing, routes, templating engine, sessions, cookies*
 - Kunskap i hur man bygger en egen CRUD applikation för att hämta, lägga till, förändra och ta bort data 
 - Omsätta skisser till digitala prototyper och funktionella användargränsnitt
+- Hantera relationsdatabaser
 
 
 **Programspråk och ramverk**: 
@@ -461,4 +466,6 @@ Case i kursen som betygsätts *Godkänd* framgår av slutgiltigt kursintyg. I ku
 Möjlighet att komplettera enstaka moduler erbjuds under pågående kurs.
 
 ## Portfolio
+Vi uppmuntrar dig till att påbörja arbetet med att skapa en egen portfolio under kursen. Till varje case finns flera olika utmaningar som du kan ta dig an. Försök att se utmaningarna som en viktig del i att på egen hand utveckla applikationer. Applikationer som kan bli en del av en framtida portfolio. 
+
 ...
