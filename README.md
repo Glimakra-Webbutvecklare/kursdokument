@@ -93,13 +93,13 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 | 3           | Grundläggande Javascript       | Introduktion till JavaScript som programspråk, hantera Document Object Model (DOM).                    | HT:3   | individuellt | 6 (v47-v51) |
 | 4           | Fortsättning JavaScript        | Asynkron kod med JavaScript, hämta data från API:er, läs data med filformaten JSON och XML.            | VT:1   | individuellt | 6 (v2-v7)   |
 | 5           | Hosting, CMS och Wordpress     | Introduktion till webbservrar och publiceringssystem, static site generators och Wordpress.            | VT:2   | grupp        | 6 (v9-v13)  |
-| 6           | Backend PHP                 | Bygg en applikation som kan spara data som en fil, och använd API för att hämta data.                  | VT:3   | individuellt | 6 (v16-v23) |
+| 6           | Backend PHP                 | Bygg en applikation som kan spara data som en fil, och använd API för att hämta data.                  | VT:3   | individuellt | 6 (v15-v22) |
 | 7           | Frontend med ramverk           | Lär dig hur man bygger en Single Page Application med ramverket React. *Design:* Micro-animtioner och usability                               | HT:1   | individuellt | 6 (v34-v39) |          
-| 8           | Spel och websockets            | Skapa en canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer. *Design:* PixelArt och Sprite Animation             | HT:2   | individuellt | 6 (v40-v46) |
-| 9           | Fullstack NodeJS              | Bygg en fullstack webbapplikation med inloggning och resurs. Använd en molnbaserad MongoDB databas.    | HT:3   | individuellt | 6 (v47-v51) |
-| 10          | Arbeta i team                  | Jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.                | VT:1   | grupp        | 6 (v2-v7)   |
-| 11          | Fullstack PHP                  | Skapa en webbapplikation med PHP. Lagra data i relationsdatabasen MySQL. Sökmotoroptimering. *Design:* CSS-Ramverk (Bootstrap)          | VT:2   | ind / grupp  | 6 (v9-v13)  |
-| 12          | Examensprojekt                 | Använd dina kunskaper och skapa en webbapplikation utifrån dina egna idéer.                            | VT:3   | ind / grupp  | 6 (v16-v23) |
+| 8           | Backend NodeJS              | Bygg en fullstack webbapplikation med inloggning och resurs. Använd en molnbaserad MongoDB databas.    | HT:2   | individuellt | 6 (v40-v46) |
+| 9           | Spel och websockets            | Skapa en canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer. *Design:* PixelArt och Sprite Animation             | HT:3   | individuellt | 6 (v47-v51) |
+| 10          | Fullstack PHP                  | Skapa en webbapplikation med PHP. Lagra data i relationsdatabasen MySQL. Sökmotoroptimering. *Design:* CSS-Ramverk (Bootstrap)          | VT:1   | ind / grupp  | 6 (v2-v7)  |
+| 11          | Arbeta i team                  | Jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.                | VT:2   | grupp        | 6 (v9-v13)   |
+| 12          | Examensprojekt                 | Använd dina kunskaper och skapa en webbapplikation utifrån dina egna idéer.                            | VT:3   | ind / grupp  | 6 (v15-v22) |
 
 
 ---
@@ -206,7 +206,7 @@ I modulen kommer du att få en förståelse för vad synkron och asynkron kod ä
 En individuell uppgift utifrån givna ramar där du ska skapa en applikation som presenterar ett dynamiskt innehåll.  
 
 ---
-### 5. Hosting och Wordpress
+### 5. Hosting, CMS och Wordpress
 
 **Verktyg**: 
 - Visual Studio Code
@@ -235,34 +235,32 @@ En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska a
 
 ---
 
-### 6. Backend Node.js 
+### 6. Backend PHP MySQL 
 
 **Verktyg**: 
 - Visual Studio Code
 - Git (GitHub)
 - Unix terminalen
+- Docker
+- phpMyAdmin
 
 **Förståelse och färdigheter**: 
-- Hantera en egen virtuell privat server för att publicera webbapplikationer
+- Skapa en grundläggande CRUD applikation baserad på PHP och MySQL
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
-- Kunna bygga ett eget REST API med Node.js
+- Hantera krypterade lösenord
 - Omsätta skisser till digitala prototyper
-- Validera av data frontend och backend
+- Validera data frontend och backend
+- Hantera virtualiserade miljöer
 
 
 **Programspråk och ramverk**: 
 - HTML
 - CSS
-- JavaScript
-- Node.js
-- Express
-- JSON
+- PHP
+- MySQL
 
 #### Beskrivning
-Modulen är en introduktion till att bygga en backend applikation med JavaScript med Node.js och Express. Du kommer att lära dig grunderna i hur en webbserver hanterar klienters förfrågningar. Du kommer också att söka och använda dokumentationsresurser för att lösa problem som uppstår under utvecklingen. Genom praktiska övningar kommer du att lära dig att bygga ett eget REST API med Node.js, en av de mest använda teknikerna för att struktera ett API. Du kommer också att lära dig att omsätta designskisser till fungerande användargränssnitt.
-
-#### Case
-En individuell uppgift utifrån givna ramar där du från grunden ska bygga en webbserver som kan hantera en enklare resurs son lagras i datafiler på servern.
+Modulen är en introduktion till att bygga en backend applikation med PHP och MySQL. Du kommer att lära dig grunderna i hur en webbserver hanterar klienters förfrågningar. I modulen kommer få en introduktion till att arbeta med en relationsdatabas. Du kommer också att söka och använda dokumentationsresurser för att lösa problem som uppstår under utvecklingen. Du kommer också att lära dig att omsätta designskisser till fungerande användargränssnitt.
 
 ---
 
@@ -292,7 +290,40 @@ Publiceras snarast via länk
 
 ---
 
-### 8. Spel och Websockets 
+### 8. Backend Node.js 
+
+**Verktyg**: 
+- Visual Studio Code
+- Git (GitHub)
+- Unix terminalen
+
+**Förståelse och färdigheter**: 
+- Hantera en egen virtuell privat server för att publicera webbapplikationer
+- Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
+- Kunna bygga ett eget REST API med Node.js
+- Omsätta skisser till digitala prototyper
+- Validera av data frontend och backend
+- Använda Express template engine ejs
+
+
+**Programspråk och ramverk**: 
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express
+- JSON
+
+#### Beskrivning
+Modulen är en introduktion till att bygga en backend applikation med JavaScript med Node.js och Express. Du kommer att lära dig grunderna i hur en webbserver hanterar klienters förfrågningar. Du kommer också att söka och använda dokumentationsresurser för att lösa problem som uppstår under utvecklingen. Genom praktiska övningar kommer du att lära dig att bygga ett eget REST API med Node.js, en av de mest använda teknikerna för att struktera ett API. Du kommer också att lära dig att omsätta designskisser till fungerande användargränssnitt.
+
+#### Case
+En individuell uppgift utifrån givna ramar där du från grunden ska bygga en webbserver som kan hantera en enklare resurs son lagras i datafiler på servern.
+
+---
+
+
+### 9. Spel och Websockets 
 
 **Verktyg**: 
 - Visual Studio Code
@@ -323,12 +354,14 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en m
 
 ---
 
-### 9. Fullstack PHP
+### 10. Fullstack PHP MySQL
 
 **Verktyg**: 
 - Visual Studio Code
-- Git (Github)
-- Unix Terminalen
+- Git (GitHub)
+- Unix Terminalen / WSL2
+- Docker Desktop
+- MySQL Workbench
 
 **Förståelse och färdigheter**: 
 - Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
@@ -339,9 +372,12 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en m
 
 
 **Programspråk och ramverk**: 
+- Docker
 - PHP
 - Laravel
 - MySQL
+- Nginx / Apache
+- HTML, CSS och JavaScript
 
 #### Beskrivning
 I den här modulen lär du dig fler tekniker som utmärker en modern webbapplikation. Nu fokuserar vi att utveckla din förståelse för backendsystem med Laravel som bygger på PHP. Du kommer också att få en fördjupa dina kunskaper inom hur man arbetar med Models, Views Controllers. Laravel som gör det enklare att hantera routrar, händelser och databasförfrågningar. Du kommer också att lära dig om hur man lagrar lösenord på ett säkert sätt och hur sessioner används för att förbättra användarupplevelsen av en applikation. Med fokus på både frontend och backend lär modulperioden ut hur en fullstack applikation fungerar.
@@ -351,7 +387,7 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en a
 
 ---
 
-### 10. Arbeta i team
+### 11. Arbeta i team
 
 **Verktyg**: 
 - Visual Studio Code
@@ -383,39 +419,6 @@ Modulen fokuserar på grundläggande arbete i ett team med projektledning inom w
 #### Case
 En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska använda ta fram en färdig webbapplikation. Arbetet med caset pågår under hela modulperioden. Exempel på projekt: utveckla ett eget tema i Wordpress med anpassning av ett eller flera plugin.
 
-
----
-
-
-### 11. Fullstack PHP
-
-**Verktyg**: 
-- Visual Studio Code
-- Git (GitHub)
-- Unix Terminalen / WSL2
-- Docker Desktop
-- MySQL Workbench
-
-**Förståelse och färdigheter**: 
-- Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
-- Omsätta skisser till digitala prototyper och funktionella användargränsnitt
-- Hantera en egen virtuel privat server för att publicera webbapplikationer
-- Använda PHP för att skapa en webbapplikation med routes och sessioner
-- Förstå grundläggande sökmotoroptimering
-- Hantera en applikation med certifikat
-
-**Programspråk och ramverk**: 
-- Docker
-- PHP
-- Nginx / Apache
-- MySQL
-- HTML, CSS och JavaScript
-
-#### Beskrivning
-I den här modulen kommer du att utforska det populära programspråket PHP för att bygga en backend. Flera av backend koncept är kända sedan tidigare moduler, men nu får du se skillnaden mellan att använda Node.js och PHP. Du kommer att jobba med Docker containers för att isolerad utecklingsmiljö. Introduktion till att använda populära PHP servrar som Nginx och Apache. Hantera projekt baserat på composer. Introduktion till att använda ramerverket Laravel. Upptäck möjligheter med relationsdatabasen MySQL för att lagra data.  
-
-#### Case
-En uppgift som du kan välja att arbeta själv med eller tillsammans med någon annan. Caset mynnar ut i en färdig fullstack webbapplikation. Arbetar du tillsammans med någon annan finns möjlighet att ha dela upp arbetet och därmed indivudellt sätta fokus på backend eller frontend. 
 
 ---
 
