@@ -262,6 +262,10 @@ En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska a
 #### Beskrivning
 Modulen är en introduktion till att bygga en backend applikation med PHP och MySQL. Du kommer att lära dig grunderna i hur en webbserver hanterar klienters förfrågningar. I modulen kommer få en introduktion till att arbeta med en relationsdatabas. Du kommer också att söka och använda dokumentationsresurser för att lösa problem som uppstår under utvecklingen. Du kommer också att lära dig att omsätta designskisser till fungerande användargränssnitt.
 
+
+#### Case
+En individuell uppgift utifrån givna ramar där du bygger en applikation där användare loggar in för att hantera resurser. 
+
 ---
 
 ### 7. Frontend ramverk 
@@ -286,7 +290,7 @@ Modulen är en introduktion till att bygga en backend applikation med PHP och My
 Den här modulen fokuserar att använda ramverket React.js för att bygga en single page applikation (SPA). Du kommer att lära dig grunderna i React.js och hur man använder det för att bygga användarvänliga gränssnitt och interaktiva webbapplikationer. Du kommer också att få en förståelse för hur man konsumerar ett RESTful API i en webbapplikation baserat på komponenter för rendrering. Vi kommer endast arbeta med Reacts grundläggande koncept: state-variabler, props, hämta data med useEffect och fetch samt react-router-dom för sidnavigering.
 
 #### Case
-Publiceras snarast via länk
+
 
 ---
 
