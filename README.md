@@ -7,19 +7,17 @@ authors: Henry Bergström, Anders Sjunnesson
 # Webbutvecklare - Kursdokument
 
 ## Programöversikt
-I kursen Webbutvecklare lär du dig hur programmering för webben. Ett hanterk där skisser i logik, struktur och design blir körbara applikationer. Tydligt fokus i kursen är att skapa versionshanterad kod av hög kvalité, att programmera utan och med ramverk och att designa funktionella och tillgängliga användargränssnitt. Ett övergripande mål med kursen är att göra dig redo för att ta dig an utmaningar i en framtida roll som webbprogammerare som anställd, eller frilans.  
+I kursen Webbutvecklare lär du dig programmering för webben. Ett hanterk där skisser i logik, struktur och design blir körbara applikationer. Tydliga fokus i kursen är att skapa versionshanterad kod av hög kvalité, att programmera utan och med ramverk och att designa funktionella och tillgängliga användargränssnitt. I rollen som framtida programmerare bör du tycka om att lösa problem och att felsöka kod på egen hand. Ett övergripande mål med kursen är att göra dig redo för att ta dig an utmaningar i en framtida roll som webbprogammerare.  
 
 ### Hur du kommer lära dig
-Kursen Webbutvecklare baseras på olika moduler. Varje modul inleds med 2-3 veckors föreläsningar, varvat med mindre övningsuppgifter. Till varje modul finns en större inlämningsuppgift – ett *case*. Ett case beskriver en applikation som du ska utveckla. I beskrivningen finns angivna ramar, grundläggande krav och valbara utmaningar. Case syftar till att du ska visa vad du har lärt dig under en modul. Ett case där du har antagit en eller flera utmaningar, kan bli en del av en framtida portfolio. 
+Kursen Webbutvecklare baseras på olika moduler. Varje modul inleds med 2-3 veckors föreläsningar, varvat med mindre övningsuppgifter. Till varje modul finns en större inlämningsuppgift – ett *case*. Ett case beskriver en applikation som du ska utveckla. I beskrivningen finns angivna ramar, grundläggande krav och valbara utmaningar. Case syftar till att du ska visa vad du har lärt dig under en modul. Ett case där du har antagit en eller flera utmaningar, kan bli en del av en framtida portfolio. Det finns möjlighet till handledning under modulperioder. 
 
-Det finns möjlighet till handledning under modulperioder. I rollen som framtida programmerare bör du tycka om att lösa problem och att felsöka kod på egen hand.
-
-De flesta case är individuella inlämningsuppgifter. Några moduler innebär att du arbetar i ett case tillsammans med andra.
+De flesta case är i form av individuella inlämningsuppgifter. Några moduler innebär att du arbetar i ett case tillsammans med andra.
 
 Redovisning av case sker ca en arbetsvecka innan en modul avslutas. Case är obligatoriska och bedöms som *Godkänt*, eller *Komplettering krävs*.
 I arbetsveckan efter redovisning finns möjlighet att förbereda sig för nästa modul, att på egen hand förbättra funktionalitet i en applikation, eller eventuellt komplettera för att nå *Godkänt* kursmoment.
 
-Under de två åren som kursen pågår finns sammanlagt 12 case, 3 per termin. En ny modul baseras på kunskaper du inhämtat från tidigare moduler. Det innebär att du som kursdeltagare behöver vara i fas med studier för att tillgodogöra dig kursinnehållet. Kursdeltagare som behöver komplettera mer än en modul kommer erfarenhetsmässigt få svårt att fullfölja kursen. 
+Under de två åren som kursen pågår finns sammanlagt 11-12 case. En ny modul baseras på kunskaper du inhämtat från tidigare moduler. Det innebär att du som kursdeltagare behöver vara i fas med studier för att tillgodogöra dig kursinnehållet. Kursdeltagare som behöver komplettera mer än en modul kommer erfarenhetsmässigt få svårt att fullfölja kursen. 
 
 ### Vad du kommer lära dig
 Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdigheter inom olika områden.
@@ -86,20 +84,19 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 ## Modulöversikt
 **OBS:** Angivna moduler och veckor kan komma att justeras.
 
-| Modulnummer | Modulnamn                      | Beskrivning                                                                                            | Period | Case         | Veckor ~   | 
-| ----------- | ------------------------------ | ------------------------------------------------------------------------------------------------------ | ------ | ------------ | ----------- |
-| 1           | HTML och Git                   | HTML är webbens språk för struktur och innehåll. Grundläggande versionshantering med GitHub. *Design:* Grundläggande - Grafisk Formgivning            | HT:1   | individuellt | 6 (v34-v39) |
-| 2           | Grundläggande CSS              | Webbdesign och responsiv layout. Lär dig begrepp som *box model*, *media queries* och *mobile first*.  | HT:2   | individuellt | 6 (v40-v46) |
-| 3           | Grundläggande Javascript       | Introduktion till JavaScript som programspråk, hantera Document Object Model (DOM).                    | HT:3   | individuellt | 6 (v47-v51) |
-| 4           | Fortsättning JavaScript        | Asynkron kod med JavaScript, hämta data från API:er, läs data med filformaten JSON och XML.            | VT:1   | individuellt | 6 (v2-v7)   |
-| 5           | Hosting, CMS och Wordpress     | Introduktion till webbservrar och publiceringssystem, static site generators och Wordpress.            | VT:2   | grupp        | 6 (v9-v13)  |
-| 6           | Backend PHP                 | Bygg en applikation som kan lagra data som i en databas.                  | VT:3   | individuellt | 6 (v15-v22) |
-| 7           | Frontend med ramverk           | Lär dig hur man bygger en Single Page Application med ramverket React. *Design:* Micro-animtioner och usability                               | HT:1   | individuellt | 6 (v34-v39) |          
-| 8           | Backend NodeJS              | Bygg en fullstack webbapplikation med inloggning och resurs. Spara information till fil, använd en molnbaserad MongoDB databas.    | HT:2   | individuellt | 6 (v40-v46) |
-| 9           | Spel och websockets            | Skapa en canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer. *Design:* PixelArt och Sprite Animation             | HT:3   | individuellt | 6 (v47-v51) |
-| 10          | Fullstack PHP                  | Skapa en webbapplikation med PHP. Lagra data i relationsdatabasen MySQL. Sökmotoroptimering. *Design:* CSS-Ramverk (Bootstrap)          | VT:1   | ind / grupp  | 6 (v2-v7)  |
-| 11          | Arbeta i team                  | Jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.                | VT:2   | grupp        | 6 (v9-v13)   |
-| 12          | Examensprojekt                 | Använd dina kunskaper och skapa en webbapplikation utifrån dina egna idéer.                            | VT:3   | ind / grupp  | 6 (v15-v22) |
+| Modulnummer | Modulnamn                      | Beskrivning                                                                                                                                | Period | Case         | Antal veckor ~ | 
+| ----------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------------ | ----------- |
+| 1           | HTML och Git                   | HTML är webbens språk för struktur och innehåll. Grundläggande versionshantering med GitHub. *Design:* Grundläggande - Grafisk Formgivning | HT:1   | individuellt | 5-6 |
+| 2           | Grundläggande CSS              | Webbdesign och responsiv layout. Lär dig begrepp som *box model*, *media queries* och *mobile first*.                                      | HT:2   | individuellt | 5-6 |
+| 3           | Grundläggande Javascript       | Introduktion till JavaScript som programspråk, hantera Document Object Model (DOM).                                                        | HT:3   | individuellt | 5-6 |
+| 4           | Fortsättning JavaScript        | Asynkron kod med JavaScript, hämta data från API:er, läs data med filformaten JSON och XML.                                                | VT:1   | individuellt | 6-7 |
+| 5           | Hosting, CMS och Wordpress     | Introduktion till webbservrar och publiceringssystem, static site generators och Wordpress.                                                | VT:2   | grupp        | 5-6 |
+| 6           | Fullstack PHP                  | Bygg en fullstack applikation med PHP och MySQL. Sökmotoroptimering. *Design:* CSS-Ramverk (Bootstrap).                                    | VT:3   | individuellt | 8-9 |
+| 7           | Frontend med ramverk           | Lär dig hur man bygger en Single Page Application med ramverket React. *Design:* Micro-animtioner och usability.                           | HT:1   | individuellt | 7-8 |          
+| 8           | Backend NodeJS                 | Bygg en fullstack applikation med inloggning och resurs. Spara information till fil, använd en molnbaserad MongoDB databas.                | HT:2   | individuellt | 7-8 |
+| 9           | Spel och websockets            | Skapa en canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer. *Design:* PixelArt och Sprite animations.      | HT:3   | individuellt | 7-8 |
+| 10          | Arbeta i team                  | Jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.                                                    | VT:2   | grupp        | 5-6 |
+| 11          | Examensprojekt                 | Använd dina kunskaper och skapa en webbapplikation utifrån dina egna idéer.                                                                | VT:3   | ind / grupp  | 8-9 |
 
 
 ---
@@ -237,7 +234,7 @@ En gruppbaserad uppgift utifrån givna ramar där du tillsammans med andra ska a
 
 ---
 
-### 6. Backend PHP MySQL 
+### 6. Fullstack PHP MySQL 
 
 **Verktyg**: 
 - Visual Studio Code
@@ -358,41 +355,6 @@ Modulen fokuserar på att förstå och använda websockets för realtidskommunik
 #### Case
 En individuell uppgift utifrån givna ramar där du från grunden ska bygga en multiplayer applikation (exempelvis ett spel).
 
-
----
-
-### 10. Fullstack PHP MySQL
-
-**Verktyg**: 
-- Visual Studio Code
-- Git (GitHub)
-- Unix Terminalen / WSL2
-- Docker Desktop
-- phpMyAdmin
-- MySQL Workbench
-
-**Förståelse och färdigheter**: 
-- Kunna söka i och använda dokumentationsresurser för att lösa problem som uppstår under utveckling
-- Förstå hur man konsumerar ett REST API i en webbapplikation
-- Kunna applicera vanliga backendtekniker för dagens webbapplikationer så som *password hasing, routes, templating engine, sessions, cookies*
-- Kunskap i hur man bygger en egen CRUD applikation för att hämta, lägga till, förändra och ta bort data 
-- Omsätta skisser till digitala prototyper och funktionella användargränsnitt
-- Hantera relationsdatabaser
-
-
-**Programspråk och ramverk**: 
-- Docker
-- PHP
-- Laravel
-- MySQL
-- Nginx / Apache
-- HTML, CSS och JavaScript
-
-#### Beskrivning
-I den här modulen lär du dig fler tekniker som utmärker en modern webbapplikation. Nu fokuserar vi att utveckla din förståelse för backendsystem med Laravel som bygger på PHP. Du kommer också att få en fördjupa dina kunskaper inom hur man arbetar med Models, Views Controllers. Laravel som gör det enklare att hantera routrar, händelser och databasförfrågningar. Du kommer också att lära dig om hur man lagrar lösenord på ett säkert sätt och hur sessioner används för att förbättra användarupplevelsen av en applikation. Med fokus på både frontend och backend lär modulperioden ut hur en fullstack applikation fungerar.
-
-#### Case
-En individuell uppgift utifrån givna ramar där du från grunden ska bygga en applikation som hanterar inloggning, sessioner och en resurs du väljer att hantera.
 
 ---
 
