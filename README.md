@@ -17,7 +17,7 @@ De flesta case är i form av individuella inlämningsuppgifter. Några moduler i
 Redovisning av case sker ca en arbetsvecka innan en modul avslutas. Case är obligatoriska och bedöms som *Godkänt*, eller *Komplettering krävs*.
 I arbetsveckan efter redovisning finns möjlighet att förbereda sig för nästa modul, att på egen hand förbättra funktionalitet i en applikation, eller eventuellt komplettera för att nå *Godkänt* kursmoment.
 
-Under de två åren som kursen pågår finns sammanlagt 11-12 case. En ny modul baseras på kunskaper du inhämtat från tidigare moduler. Det innebär att du som kursdeltagare behöver vara i fas med studier för att tillgodogöra dig kursinnehållet. Kursdeltagare som behöver komplettera mer än en modul kommer erfarenhetsmässigt få svårt att fullfölja kursen. 
+Under de två åren finns sammanlagt 11 case. En ny modul baseras på kunskaper du inhämtat från tidigare moduler. Det innebär att du som kursdeltagare behöver vara i fas med studier för att tillgodogöra dig kursinnehållet. Kursdeltagare som behöver komplettera mer än en modul kommer erfarenhetsmässigt få svårt att fullfölja kursen. 
 
 ### Vad du kommer lära dig
 Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdigheter inom olika områden.
@@ -346,7 +346,7 @@ En individuell uppgift utifrån givna ramar där du från grunden ska bygga en w
 - HTML
 - CSS
 - JavaScript
-- Canvas
+- TypeScript
 - Node.js
 
 #### Beskrivning
