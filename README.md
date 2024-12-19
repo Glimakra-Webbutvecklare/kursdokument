@@ -84,19 +84,19 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 ## Modulöversikt
 **OBS:** Angivna moduler och veckor kan komma att justeras.
 
-| Modulnummer | Modulnamn                      | Beskrivning                                                                                                                                | Period | Case         | Antal veckor ~ | 
-| ----------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------------ | ----------- |
-| 1           | HTML och Git                   | HTML är webbens språk för struktur och innehåll. Grundläggande versionshantering med GitHub. *Design:* Grundläggande - Grafisk Formgivning | HT:1   | individuellt | 5 |
-| 2           | Grundläggande CSS              | Webbdesign och responsiv layout. Lär dig begrepp som *box model*, *media queries* och *mobile first*.                                      | HT:2   | individuellt | 5 |
-| 3           | Grundläggande Javascript       | Introduktion till JavaScript som programspråk, hantera Document Object Model (DOM).                                                        | HT:3   | individuellt | 7 |
-| 4           | Fortsättning JavaScript        | Asynkron kod med JavaScript, hämta data från API:er, läs data med filformaten JSON och XML.                                                | VT:1   | individuellt | 6 |
-| 5           | Hosting, CMS och Wordpress     | Introduktion till webbservrar och publiceringssystem, static site generators och Wordpress.                                                | VT:2   | grupp        | 5 |
-| 6           | Fullstack PHP                  | Bygg en fullstack applikation med PHP och MySQL. Sökmotoroptimering. *Design:* CSS-Ramverk (Bootstrap).                                    | VT:3   | individuellt | 9 |
-| 7           | Frontend med ramverk           | Lär dig hur man bygger en Single Page Application med ramverket React. *Design:* Micro-animtioner och usability.                           | HT:1   | individuellt | 7 |          
-| 8           | Backend NodeJS                 | Bygg en fullstack applikation med inloggning och resurs. Spara information till fil, använd en molnbaserad MongoDB databas.                | HT:2   | individuellt | 8 |
-| 9           | Spel och websockets            | Skapa en canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer. *Design:* PixelArt och Sprite animations.      | HT:3   | individuellt | 8 |
-| 10          | Arbeta i team                  | Jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.                                                    | VT:2   | grupp        | 5 |
-| 11          | Examensprojekt                 | Använd dina kunskaper och skapa en webbapplikation utifrån dina egna idéer.                                                                | VT:3   | ind / grupp  | 9 |
+| Modulnummer | Modulnamn                      | Beskrivning                                                                                                                                | Period    | Case         | Antal veckor ~ | 
+| ----------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------ | ----------- |
+| 1           | HTML och Git                   | HTML är webbens språk för struktur och innehåll. Grundläggande versionshantering med GitHub. *Design:* Grundläggande - Grafisk Formgivning | HT:1      | individuellt | 5 |
+| 2           | Grundläggande CSS              | Webbdesign och responsiv layout. Lär dig begrepp som *box model*, *media queries* och *mobile first*.                                      | HT:2      | individuellt | 5 |
+| 3           | Grundläggande Javascript       | Introduktion till JavaScript som programspråk, hantera Document Object Model (DOM).                                                        | HT:3      | individuellt | 7 |
+| 4           | Fortsättning JavaScript        | Asynkron kod med JavaScript, hämta data från API:er, läs data med filformaten JSON och XML.                                                | VT:1      | individuellt | 6 |
+| 5           | Hosting, CMS och Wordpress     | Introduktion till webbservrar och publiceringssystem, static site generators och Wordpress.                                                | VT:2      | grupp        | 5 |
+| 6           | Fullstack PHP                  | Bygg en fullstack applikation med PHP och MySQL. Sökmotoroptimering. *Design:* CSS-Ramverk (Bootstrap).                                    | VT:3      | individuellt | 9 |
+| 7           | Frontend med ramverk           | Lär dig hur man bygger en Single Page Application med ramverket React. *Design:* Micro-animtioner och usability.                           | HT:1      | individuellt | 7 |          
+| 8           | Backend NodeJS                 | Bygg en fullstack applikation med inloggning och resurs. Spara information till fil, använd en molnbaserad MongoDB databas.                | HT:2      | individuellt | 8 |
+| 9           | Spel och websockets            | Skapa en canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer. *Design:* PixelArt och Sprite animations.      | HT:3 VT:1 | individuellt | 8 |
+| 10          | Arbeta i team                  | Jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.                                                    | VT:2      | grupp        | 5 |
+| 11          | Examensprojekt                 | Använd dina kunskaper och skapa en webbapplikation utifrån dina egna idéer.                                                                | VT:3      | ind / grupp  | 9 |
 
 
 ---
