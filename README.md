@@ -95,7 +95,7 @@ Unders kursen kommer du att hantera en mängd olika verktyg, och nå färdighete
 | 7           | Frontend med ramverk              | Utveckla en Single Page Application med ramverket React. *Design:* Micro-animtioner och usability.                                          | HT:1      | individuellt | 7 |          
 | 8           | Backend Node.js                   | Fullstack applikation med inloggning och resurs. Spara information till fil, molnbaserad MongoDB databas, autentisering med JSON Web Tokens | HT:2      | individuellt | 8 |
 | 9           | Spel och websockets               | Canvasbaserad applikation med websocket för kommunikation i realtid - multiplayer spel. *Design:* PixelArt och Sprite animations.           | HT:3 VT:1 | individuellt | 8 |
-| 10          | Mer om Hosting, CMS och Wordpress | Arbeta i team, utveckla Wordpress tema, jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.             | VT:2      | grupp        | 5 |
+| 10          | Mer om Hosting, CMS och Wordpress | Arbeta i team, utveckla tema i Wordpress, jobba tillsammans i ett projekt mot extern kund. Planera och utför arbete enligt Scrum.           | VT:2      | grupp        | 5 |
 | 11          | Examensprojekt                    | Använd dina kunskaper och skapa en webbapplikation utifrån dina egna idéer.                                                                 | VT:3      | ind / grupp  | 9 |
 
 
